@@ -1,6 +1,6 @@
 ---
 title: "University of Minnesota, Twin Cities"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/umn.jpg'>"
 collection: portfolio
 ---
 
