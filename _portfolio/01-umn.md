@@ -1,6 +1,6 @@
 ---
 title: "University of Minnesota, Twin Cities"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/umn.jpg'>"
+excerpt: "<strong>M.S. in Computer Science</strong>, July 2015 <br> <br/><img src='/images/umn.jpg'>"
 collection: portfolio
 ---
 

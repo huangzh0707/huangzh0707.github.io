@@ -1,6 +1,6 @@
 ---
 title: "Tsinghua University"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/thu1.jpg'>"
+excerpt: "<strong>M.E. in Electronic Engineering</strong>, June 2012 <br><br/><img src='/images/thu1.jpg'>"
 collection: portfolio
 ---
 

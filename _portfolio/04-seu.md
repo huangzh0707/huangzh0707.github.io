@@ -1,6 +1,6 @@
 ---
 title: "Southeast University"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/seu.jpg'>"
+excerpt: "<strong>B.E. in Information Engineering</strong>, June 2009 <br><br/><img src='/images/seu.jpg'>"
 collection: portfolio
 ---
 
