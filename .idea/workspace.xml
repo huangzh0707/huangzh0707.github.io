@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b249e945-76f4-426f-9f2f-d3eebc91b38e" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files/Precision Crowdsourcing.pdf" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_pages/contact.md" afterPath="$PROJECT_DIR$/_pages/personal.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_publications/2010-low-cost-sytem-icmmt.md" afterPath="$PROJECT_DIR$/_publications/2010-low-cost-sytem-icmmt.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_publications/2012-nn-modeling-icmmt.md" afterPath="$PROJECT_DIR$/_publications/2012-nn-modeling-icmmt.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_publications/2016-crowdsourcing-cscw.md" afterPath="$PROJECT_DIR$/_publications/2016-crowdsourcing-cscw.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data/navigation.yml" afterPath="$PROJECT_DIR$/_data/navigation.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_pages/publications.md" afterPath="$PROJECT_DIR$/_pages/publications.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,129 +20,22 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="archive-single.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/archive-single.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="44" column="19" lean-forward="false" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2016-crowdfunding-financial-innovation.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_site/publication/2016-crowdfunding-financial-innovation.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1503562482000" expanded="true" signature="9876:9977" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2016-crowdfunding-financial-innovation.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_publications/2016-crowdfunding-financial-innovation.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="225">
-                <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2016-crowdsourcing-cscw.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_publications/2016-crowdsourcing-cscw.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="210">
-                <caret line="14" column="45" lean-forward="false" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2016-crowdsourcing-cscw.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_site/publication/2016-crowdsourcing-cscw.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="261" column="452" lean-forward="false" selection-start-line="261" selection-start-column="452" selection-end-line="261" selection-end-column="452" />
-              <folding>
-                <marker date="1503562482000" expanded="false" signature="4177:4187" ph="..." />
-                <marker date="1503562482000" expanded="true" signature="8534:9011" ph="..." />
-                <marker date="1503562482000" expanded="false" signature="8928:8933" ph="&amp;" />
-                <marker date="1503562482000" expanded="true" signature="9046:9084" ph="..." />
-                <marker date="1503562482000" expanded="true" signature="9123:10181" ph="..." />
-                <marker date="1503562482000" expanded="true" signature="10218:10671" ph="..." />
-                <marker date="1503562482000" expanded="true" signature="11634:12020" ph="..." />
-                <marker date="1503562482000" expanded="true" signature="11662:11881" ph="{...}" />
-                <marker date="1503562482000" expanded="true" signature="11713:11753" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2012-nn-modeling-icmmt.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_publications/2012-nn-modeling-icmmt.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="210">
-                <caret line="14" column="43" lean-forward="false" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="navigation.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_data/navigation.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="16" selection-end-column="19" />
+            <state relative-caret-position="345">
+              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contact.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_pages/contact.md">
+      <file leaf-file-name="personal.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_pages/personal.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2010-low-cost-sytem-icmmt.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_publications/2010-low-cost-sytem-icmmt.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="210">
-                <caret line="14" column="35" lean-forward="false" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2011-low-cost-system-pierl.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_publications/2011-low-cost-system-pierl.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="225">
-                <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <first_editor relative-caret-position="201">
+                <caret line="14" column="49" lean-forward="false" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -162,12 +54,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>archive_it</find>
-      <find>archive_ite</find>
-      <find>archive_item</find>
-      <find>archive__item</find>
-      <find>archive__item-excerpt</find>
-      <find>5</find>
       <find>52</find>
       <find>52a</find>
       <find>52ad</find>
@@ -190,6 +76,13 @@
       <find>download paper h</find>
       <find>download paper he</find>
       <find>download paper her</find>
+      <find>m y</find>
+      <find>m</find>
+      <find>my</find>
+      <find>my</find>
+      <find>my g</find>
+      <find>my go</find>
+      <find>my goo</find>
       <find>pdf</find>
     </findStrings>
     <dirStrings>
@@ -204,15 +97,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_research/research-4.md" />
-        <option value="$PROJECT_DIR$/_site/assets/css/main.css" />
         <option value="$PROJECT_DIR$/_site/about.html" />
         <option value="$PROJECT_DIR$/_site/year-archive/index.html" />
         <option value="$PROJECT_DIR$/_pages/year-archive.html" />
         <option value="$PROJECT_DIR$/_site/portfolio/portfolio-1/index.html" />
         <option value="$PROJECT_DIR$/_site/education/index.html" />
         <option value="$PROJECT_DIR$/_pages/cv.md" />
-        <option value="$PROJECT_DIR$/_data/navigation.yml" />
         <option value="$PROJECT_DIR$/_pages/contact.md" />
         <option value="$PROJECT_DIR$/_site/markdown.html" />
         <option value="$PROJECT_DIR$/_site/contact/index.html" />
@@ -255,6 +145,9 @@
         <option value="$PROJECT_DIR$/_publications/2016-crowdsourcing-cscw.md" />
         <option value="$PROJECT_DIR$/_publications/2012-nn-modeling-icmmt.md" />
         <option value="$PROJECT_DIR$/_publications/2010-low-cost-sytem-icmmt.md" />
+        <option value="$PROJECT_DIR$/_pages/publications.md" />
+        <option value="$PROJECT_DIR$/_data/navigation.yml" />
+        <option value="$PROJECT_DIR$/_pages/personal.md" />
       </list>
     </option>
   </component>
@@ -267,8 +160,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="220" />
-    <option name="y" value="29" />
+    <option name="x" value="418" />
+    <option name="y" value="23" />
     <option name="width" value="1401" />
     <option name="height" value="959" />
   </component>
@@ -359,24 +252,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="_site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="huangzh0707.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="huangzh0707.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="publication" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -579,24 +454,26 @@
       <workItem from="1502879817449" duration="6930000" />
       <workItem from="1502952946192" duration="18683000" />
       <workItem from="1503285195091" duration="7051000" />
-      <workItem from="1503560965790" duration="913000" />
+      <workItem from="1503560965790" duration="2283000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37947000" />
+    <option name="totallyTimeSpent" value="39317000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="220" y="29" width="1401" height="959" extended-state="0" />
+    <frame x="418" y="23" width="1401" height="959" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23405798" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28719723" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28719723" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -605,7 +482,6 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -683,16 +559,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="90">
             <caret line="6" column="11" lean-forward="false" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_pages/publications.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="240">
-            <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           </first_editor>
           <second_editor />
         </state>
@@ -798,13 +664,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="553">
-          <caret line="104" column="20" lean-forward="false" selection-start-line="104" selection-start-column="20" selection-end-line="104" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_portfolio/04-seu.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -820,6 +679,7 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="105">
             <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -857,6 +717,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="193">
           <caret line="262" column="9" lean-forward="false" selection-start-line="262" selection-start-column="9" selection-end-line="262" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -864,6 +725,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="185">
           <caret line="431" column="14" lean-forward="false" selection-start-line="431" selection-start-column="14" selection-end-line="431" selection-end-column="14" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -923,27 +785,41 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1503562482000" expanded="true" signature="9876:9977" ph="..." />
+            <marker date="1503573411000" expanded="true" signature="9878:9979" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_pages/contact.md">
+    <entry file="file://$PROJECT_DIR$/_publications/2012-nn-modeling-icmmt.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <first_editor relative-caret-position="210">
+            <caret line="14" column="43" lean-forward="false" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_data/navigation.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="16" selection-end-column="19" />
-          <folding />
+    <entry file="file://$PROJECT_DIR$/_publications/2010-low-cost-sytem-icmmt.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="210">
+            <caret line="14" column="35" lean-forward="false" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_publications/2011-low-cost-system-pierl.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="225">
+            <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
@@ -952,15 +828,8 @@
         <state relative-caret-position="176">
           <caret line="261" column="452" lean-forward="false" selection-start-line="261" selection-start-column="452" selection-end-line="261" selection-end-column="452" />
           <folding>
-            <marker date="1503562482000" expanded="false" signature="4177:4187" ph="..." />
-            <marker date="1503562482000" expanded="true" signature="8534:9011" ph="..." />
-            <marker date="1503562482000" expanded="false" signature="8928:8933" ph="&amp;" />
-            <marker date="1503562482000" expanded="true" signature="9046:9084" ph="..." />
-            <marker date="1503562482000" expanded="true" signature="9123:10181" ph="..." />
-            <marker date="1503562482000" expanded="true" signature="10218:10671" ph="..." />
-            <marker date="1503562482000" expanded="true" signature="11634:12020" ph="..." />
-            <marker date="1503562482000" expanded="true" signature="11662:11881" ph="{...}" />
-            <marker date="1503562482000" expanded="true" signature="11713:11753" ph="{...}" />
+            <marker date="1503573411000" expanded="false" signature="4177:4187" ph="..." />
+            <marker date="1503573411000" expanded="false" signature="8930:8935" ph="&amp;" />
           </folding>
         </state>
       </provider>
@@ -992,33 +861,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_publications/2012-nn-modeling-icmmt.md">
+    <entry file="file://$PROJECT_DIR$/_pages/publications.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="210">
-            <caret line="14" column="43" lean-forward="false" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+          <first_editor relative-caret-position="240">
+            <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_publications/2011-low-cost-system-pierl.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="225">
-            <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="85" column="92" lean-forward="false" selection-start-line="85" selection-start-column="21" selection-end-line="85" selection-end-column="92" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_publications/2010-low-cost-sytem-icmmt.md">
+    <entry file="file://$PROJECT_DIR$/_data/navigation.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_pages/personal.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="210">
-            <caret line="14" column="35" lean-forward="false" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+          <first_editor relative-caret-position="201">
+            <caret line="14" column="49" lean-forward="false" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
             <folding />
           </first_editor>
           <second_editor />
