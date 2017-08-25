@@ -81,6 +81,23 @@ Skills
 * <strong>Web Development</strong>
   * HTML5 & CSS3, JavaScript, AngularJS, PHP, Django
  
+Core Courses
+======
+* <strong>Mathematics</strong>
+  * Calculus: 90
+  * Linear Algebra:92
+  * Statistics & Stochastic Processes:96
+  * Applied	Information Theory:94
+
+* <strong>Economics</strong>
+  * Intermediate Microeconomics: 90
+  * Intermediate Macroeconomics:90
+  * Advanced Macro-Economics:93
+
+* <strong>Computer Science</strong>
+  * Software Engineering: A-
+  * Database Management System:B+
+
 Standard Test
 ======
 * <strong>GRE</strong>
