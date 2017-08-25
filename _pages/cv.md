@@ -34,27 +34,34 @@ Publications
   
 Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* <strong>Research Assistant</strong>, Aug 2013 - Jul 2015
+  * [GroupLens Research Lab](https://grouplens.org/), Computer Science, University of Minnesota
+  * Research:
+    * Precision Crowdsourcing
+    * Online Communities
+    * Human Computer Interaction (HCI) & Social Computing
+  * Supervisor: Prof. Joseph A. Konstan
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* <strong>Research Assistant</strong>, Sep 2009 - Jul 2013
+  * [Electronic Engineering, Tsinghua University](http://www.ee.tsinghua.edu.cn/)
+  * Research: 
+    * Neural Networks
+    * Behavioral Modeling
+  * Supervisor: Prof. Wenhua Chen
 
 Industry experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* <strong>Director of Big Data</strong>, Aug 2016 - Present
+  * [Yuanshi Data](http://data.yuanshihui.com/)
+  * Duties included: R&D on big data finance for venture capital industry
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* <strong>Product Manager</strong>, Jan 2016 - Aug 2016
+  * [Yuanshihui Inc.](http://www.yuanshihui.com/)
+  * Duties included: R&D on equity-based crowdfunding
+  
+* <strong>Software Engineer & Product Manager</strong>, Jul 2015 - Jan 2016
+  * [Zhongchou Inc.](http://www.zhongchou.com/)
+  * Duties included: Web development & R&D on reward-based crowdfunding
 
 
 Teaching
@@ -65,13 +72,18 @@ Teaching
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* <strong>Statistics</strong>
+  * IPython, R, Stata, MATLAB
+* <strong>Programing</strong>
+  * Python, Java
+* <strong>Data-related</strong>
+  * Scraping, MySQL, Oracle
+* <strong>Web Development</strong>
+  * HTML5 & CSS3, JavaScript, AngularJS, PHP, Django
  
-Service and leadership
+Standard Test
 ======
-* Currently signed in to 43 different slack teams
+* <strong>GRE</strong>
+  * Verbal:153 (60%)
+  * Quantitative:164 (87%)
+  * AW:3.5 (42%)
