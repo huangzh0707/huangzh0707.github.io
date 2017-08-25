@@ -1,13 +1,15 @@
 ---
 layout: archive
-title: "Resume"
-permalink: /resume/
+title: "CV"
+permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - /cv
 ---
 
 {% include base_path %}
+
+Also available in [PDF](http://huangzh0707.github.io/files/CV2017.pdf)
 
 Education
 ======

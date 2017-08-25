@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b249e945-76f4-426f-9f2f-d3eebc91b38e" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_pages/contact.md" afterPath="$PROJECT_DIR$/_pages/personal.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_pages/resume.md" afterPath="$PROJECT_DIR$/_pages/cv.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data/navigation.yml" afterPath="$PROJECT_DIR$/_data/navigation.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_pages/publications.md" afterPath="$PROJECT_DIR$/_pages/publications.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/archive-single-cv.html" afterPath="$PROJECT_DIR$/_includes/archive-single-cv.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_publications/2016-crowdfunding-financial-innovation.md" afterPath="$PROJECT_DIR$/_publications/2016-crowdfunding-financial-innovation.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -30,15 +31,176 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="personal.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_pages/personal.md">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1080">
+              <caret line="85" column="92" lean-forward="false" selection-start-line="85" selection-start-column="21" selection-end-line="85" selection-end-column="92" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2016-crowdfunding-financial-innovation.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_publications/2016-crowdfunding-financial-innovation.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="201">
-                <caret line="14" column="49" lean-forward="false" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+              <first_editor relative-caret-position="180">
+                <caret line="12" column="108" lean-forward="false" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="108" />
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="archive-single-cv.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/archive-single-cv.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="26" lean-forward="false" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="personal.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_pages/personal.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="300">
+                <caret line="20" column="6" lean-forward="false" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="publications.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_pages/publications.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="240">
+                <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2010-low-cost-sytem-icmmt.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_publications/2010-low-cost-sytem-icmmt.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="210">
+                <caret line="14" column="46" lean-forward="false" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="research.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_pages/research.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cv.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_pages/cv.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="330">
+                <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_site/cv/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2538">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1503644170000" expanded="false" signature="3671:3681" ph="..." />
+                <marker date="1503644170000" expanded="true" signature="6721:7009" ph="..." />
+                <marker date="1503644170000" expanded="true" signature="7061:7444" ph="..." />
+                <marker date="1503644170000" expanded="true" signature="7068:7247" ph="..." />
+                <marker date="1503644170000" expanded="true" signature="7108:7239" ph="..." />
+                <marker date="1503644170000" expanded="true" signature="7254:7438" ph="..." />
+                <marker date="1503644170000" expanded="true" signature="7292:7430" ph="..." />
+                <marker date="1503644170000" expanded="true" signature="7478:7650" ph="..." />
+                <marker date="1503644170000" expanded="true" signature="7504:7625" ph="..." />
+                <marker date="1503644170000" expanded="true" signature="7520:7617" ph="..." />
+                <marker date="1503644170000" expanded="true" signature="7696:11608" ph="..." />
+                <marker date="1503644170000" expanded="true" signature="7731:8453" ph="..." />
+                <marker date="1503644170000" expanded="true" signature="7820:8446" ph="..." />
+                <marker date="1503644170000" expanded="true" signature="7829:8434" ph="..." />
+                <marker date="1503644170000" expanded="true" signature="7891:8076" ph="..." />
+                <marker date="1503644170000" expanded="true" signature="7994:8059" ph="..." />
+                <marker date="1503644170000" expanded="true" signature="8492:9202" ph="..." />
+                <marker date="1503644170000" expanded="true" signature="8581:9195" ph="..." />
+                <marker date="1503644170000" expanded="true" signature="8590:9183" ph="..." />
+                <marker date="1503644170000" expanded="true" signature="8652:8852" ph="..." />
+                <marker date="1503644170000" expanded="true" signature="8755:8835" ph="..." />
+                <marker date="1503644170000" expanded="true" signature="9241:10084" ph="..." />
+                <marker date="1503644170000" expanded="true" signature="9330:10077" ph="..." />
+                <marker date="1503644170000" expanded="true" signature="9339:10065" ph="..." />
+                <marker date="1503644170000" expanded="true" signature="9401:9644" ph="..." />
+                <marker date="1503644170000" expanded="true" signature="9500:9627" ph="..." />
+                <marker date="1503644170000" expanded="true" signature="10123:10961" ph="..." />
+                <marker date="1503644170000" expanded="true" signature="10212:10954" ph="..." />
+                <marker date="1503644170000" expanded="true" signature="10221:10942" ph="..." />
+                <marker date="1503644170000" expanded="true" signature="10283:10506" ph="..." />
+                <marker date="1503644170000" expanded="true" signature="10383:10489" ph="..." />
+                <marker date="1503644170000" expanded="false" signature="10875:10880" ph="&amp;" />
+                <marker date="1503644170000" expanded="true" signature="11000:11599" ph="..." />
+                <marker date="1503644170000" expanded="true" signature="11089:11592" ph="..." />
+                <marker date="1503644170000" expanded="true" signature="11098:11580" ph="..." />
+                <marker date="1503644170000" expanded="true" signature="11160:11343" ph="..." />
+                <marker date="1503644170000" expanded="true" signature="11275:11326" ph="..." />
+                <marker date="1503644170000" expanded="true" signature="11640:14118" ph="..." />
+                <marker date="1503644170000" expanded="true" signature="11675:12247" ph="..." />
+                <marker date="1503644170000" expanded="true" signature="11764:12240" ph="..." />
+                <marker date="1503644170000" expanded="true" signature="11773:12227" ph="..." />
+                <marker date="1503644170000" expanded="true" signature="11835:11983" ph="..." />
+                <marker date="1503644170000" expanded="true" signature="11923:11966" ph="..." />
+                <marker date="1503644170000" expanded="true" signature="12287:12864" ph="..." />
+                <marker date="1503644170000" expanded="true" signature="12376:12857" ph="..." />
+                <marker date="1503644170000" expanded="true" signature="12385:12844" ph="..." />
+                <marker date="1503644170000" expanded="true" signature="12447:12603" ph="..." />
+                <marker date="1503644170000" expanded="true" signature="12539:12586" ph="..." />
+                <marker date="1503644170000" expanded="true" signature="12904:13449" ph="..." />
+                <marker date="1503644170000" expanded="true" signature="12993:13442" ph="..." />
+                <marker date="1503644170000" expanded="true" signature="13002:13429" ph="..." />
+                <marker date="1503644170000" expanded="true" signature="13064:13212" ph="..." />
+                <marker date="1503644170000" expanded="true" signature="13152:13195" ph="..." />
+                <marker date="1503644170000" expanded="true" signature="13489:14108" ph="..." />
+                <marker date="1503644170000" expanded="true" signature="13578:14101" ph="..." />
+                <marker date="1503644170000" expanded="true" signature="13587:14088" ph="..." />
+                <marker date="1503644170000" expanded="true" signature="13649:13819" ph="..." />
+                <marker date="1503644170000" expanded="true" signature="13737:13802" ph="..." />
+                <marker date="1503644170000" expanded="true" signature="14156:14601" ph="..." />
+                <marker date="1503644170000" expanded="true" signature="14191:14592" ph="..." />
+                <marker date="1503644170000" expanded="true" signature="14280:14585" ph="..." />
+                <marker date="1503644170000" expanded="true" signature="14289:14573" ph="..." />
+                <marker date="1503644170000" expanded="true" signature="14351:14485" ph="..." />
+                <marker date="1503644170000" expanded="true" signature="14445:14468" ph="..." />
+                <marker date="1503644170000" expanded="true" signature="14667:14732" ph="..." />
+                <marker date="1503644170000" expanded="true" signature="15667:16053" ph="..." />
+                <marker date="1503644170000" expanded="true" signature="15695:15914" ph="{...}" />
+                <marker date="1503644170000" expanded="true" signature="15746:15786" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -97,12 +259,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_site/about.html" />
-        <option value="$PROJECT_DIR$/_site/year-archive/index.html" />
         <option value="$PROJECT_DIR$/_pages/year-archive.html" />
         <option value="$PROJECT_DIR$/_site/portfolio/portfolio-1/index.html" />
         <option value="$PROJECT_DIR$/_site/education/index.html" />
-        <option value="$PROJECT_DIR$/_pages/cv.md" />
         <option value="$PROJECT_DIR$/_pages/contact.md" />
         <option value="$PROJECT_DIR$/_site/markdown.html" />
         <option value="$PROJECT_DIR$/_site/contact/index.html" />
@@ -140,14 +299,17 @@
         <option value="$PROJECT_DIR$/_publications/2016-Crowdfunding-financial-innovation.md" />
         <option value="$PROJECT_DIR$/_publications/2016-Crowdsourcing-CSCW.md" />
         <option value="$PROJECT_DIR$/_publications/2015-10-01-paper-title-number-3.md" />
-        <option value="$PROJECT_DIR$/_publications/2016-crowdfunding-financial-innovation.md" />
         <option value="$PROJECT_DIR$/_publications/2011-low-cost-system-pierl.md" />
         <option value="$PROJECT_DIR$/_publications/2016-crowdsourcing-cscw.md" />
         <option value="$PROJECT_DIR$/_publications/2012-nn-modeling-icmmt.md" />
         <option value="$PROJECT_DIR$/_publications/2010-low-cost-sytem-icmmt.md" />
         <option value="$PROJECT_DIR$/_pages/publications.md" />
-        <option value="$PROJECT_DIR$/_data/navigation.yml" />
         <option value="$PROJECT_DIR$/_pages/personal.md" />
+        <option value="$PROJECT_DIR$/_publications/1016-crowdfunding-financial-innovation.md" />
+        <option value="$PROJECT_DIR$/_publications/2016-crowdfunding-financial-innovation.md" />
+        <option value="$PROJECT_DIR$/_includes/archive-single-cv.html" />
+        <option value="$PROJECT_DIR$/_data/navigation.yml" />
+        <option value="$PROJECT_DIR$/_pages/cv.md" />
       </list>
     </option>
   </component>
@@ -160,10 +322,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="418" />
+    <option name="x" value="531" />
     <option name="y" value="23" />
-    <option name="width" value="1401" />
-    <option name="height" value="959" />
+    <option name="width" value="1679" />
+    <option name="height" value="948" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -265,24 +427,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="_site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="files" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="huangzh0707.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="huangzh0707.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="_publications" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -326,6 +470,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="_pages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="huangzh0707.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="huangzh0707.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_includes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -454,18 +612,18 @@
       <workItem from="1502879817449" duration="6930000" />
       <workItem from="1502952946192" duration="18683000" />
       <workItem from="1503285195091" duration="7051000" />
-      <workItem from="1503560965790" duration="2283000" />
+      <workItem from="1503560965790" duration="4714000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39317000" />
+    <option name="totallyTimeSpent" value="41748000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="418" y="23" width="1401" height="959" extended-state="1" />
+    <frame x="531" y="23" width="1679" height="948" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23405798" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19481303" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -473,7 +631,7 @@
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28719723" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29088786" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -498,31 +656,11 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_layouts/talk.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/analytics.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/posts/2012/08/blog-post-1/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1291">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_site/resume/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-4432">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -544,23 +682,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="765">
           <caret line="51" column="16" lean-forward="false" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_pages/research.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_pages/resume.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="90">
-            <caret line="6" column="11" lean-forward="false" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -772,21 +893,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/archive-single.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="44" column="19" lean-forward="false" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_site/publication/2016-crowdfunding-financial-innovation.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1503573411000" expanded="true" signature="9878:9979" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -795,17 +906,6 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="210">
             <caret line="14" column="43" lean-forward="false" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_publications/2010-low-cost-sytem-icmmt.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="210">
-            <caret line="14" column="35" lean-forward="false" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
             <folding />
           </first_editor>
           <second_editor />
@@ -828,8 +928,8 @@
         <state relative-caret-position="176">
           <caret line="261" column="452" lean-forward="false" selection-start-line="261" selection-start-column="452" selection-end-line="261" selection-end-column="452" />
           <folding>
-            <marker date="1503573411000" expanded="false" signature="4177:4187" ph="..." />
-            <marker date="1503573411000" expanded="false" signature="8930:8935" ph="&amp;" />
+            <marker date="1503644170000" expanded="false" signature="4177:4187" ph="..." />
+            <marker date="1503644170000" expanded="false" signature="8922:8927" ph="&amp;" />
           </folding>
         </state>
       </provider>
@@ -845,6 +945,142 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_pages/category-archive.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/archive-single.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="541">
+          <caret line="44" column="19" lean-forward="false" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/archive-single-cv.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="26" lean-forward="false" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/cv/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2538">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1503644170000" expanded="false" signature="3671:3681" ph="..." />
+            <marker date="1503644170000" expanded="true" signature="6721:7009" ph="..." />
+            <marker date="1503644170000" expanded="true" signature="7061:7444" ph="..." />
+            <marker date="1503644170000" expanded="true" signature="7068:7247" ph="..." />
+            <marker date="1503644170000" expanded="true" signature="7108:7239" ph="..." />
+            <marker date="1503644170000" expanded="true" signature="7254:7438" ph="..." />
+            <marker date="1503644170000" expanded="true" signature="7292:7430" ph="..." />
+            <marker date="1503644170000" expanded="true" signature="7478:7650" ph="..." />
+            <marker date="1503644170000" expanded="true" signature="7504:7625" ph="..." />
+            <marker date="1503644170000" expanded="true" signature="7520:7617" ph="..." />
+            <marker date="1503644170000" expanded="true" signature="7696:11608" ph="..." />
+            <marker date="1503644170000" expanded="true" signature="7731:8453" ph="..." />
+            <marker date="1503644170000" expanded="true" signature="7820:8446" ph="..." />
+            <marker date="1503644170000" expanded="true" signature="7829:8434" ph="..." />
+            <marker date="1503644170000" expanded="true" signature="7891:8076" ph="..." />
+            <marker date="1503644170000" expanded="true" signature="7994:8059" ph="..." />
+            <marker date="1503644170000" expanded="true" signature="8492:9202" ph="..." />
+            <marker date="1503644170000" expanded="true" signature="8581:9195" ph="..." />
+            <marker date="1503644170000" expanded="true" signature="8590:9183" ph="..." />
+            <marker date="1503644170000" expanded="true" signature="8652:8852" ph="..." />
+            <marker date="1503644170000" expanded="true" signature="8755:8835" ph="..." />
+            <marker date="1503644170000" expanded="true" signature="9241:10084" ph="..." />
+            <marker date="1503644170000" expanded="true" signature="9330:10077" ph="..." />
+            <marker date="1503644170000" expanded="true" signature="9339:10065" ph="..." />
+            <marker date="1503644170000" expanded="true" signature="9401:9644" ph="..." />
+            <marker date="1503644170000" expanded="true" signature="9500:9627" ph="..." />
+            <marker date="1503644170000" expanded="true" signature="10123:10961" ph="..." />
+            <marker date="1503644170000" expanded="true" signature="10212:10954" ph="..." />
+            <marker date="1503644170000" expanded="true" signature="10221:10942" ph="..." />
+            <marker date="1503644170000" expanded="true" signature="10283:10506" ph="..." />
+            <marker date="1503644170000" expanded="true" signature="10383:10489" ph="..." />
+            <marker date="1503644170000" expanded="false" signature="10875:10880" ph="&amp;" />
+            <marker date="1503644170000" expanded="true" signature="11000:11599" ph="..." />
+            <marker date="1503644170000" expanded="true" signature="11089:11592" ph="..." />
+            <marker date="1503644170000" expanded="true" signature="11098:11580" ph="..." />
+            <marker date="1503644170000" expanded="true" signature="11160:11343" ph="..." />
+            <marker date="1503644170000" expanded="true" signature="11275:11326" ph="..." />
+            <marker date="1503644170000" expanded="true" signature="11640:14118" ph="..." />
+            <marker date="1503644170000" expanded="true" signature="11675:12247" ph="..." />
+            <marker date="1503644170000" expanded="true" signature="11764:12240" ph="..." />
+            <marker date="1503644170000" expanded="true" signature="11773:12227" ph="..." />
+            <marker date="1503644170000" expanded="true" signature="11835:11983" ph="..." />
+            <marker date="1503644170000" expanded="true" signature="11923:11966" ph="..." />
+            <marker date="1503644170000" expanded="true" signature="12287:12864" ph="..." />
+            <marker date="1503644170000" expanded="true" signature="12376:12857" ph="..." />
+            <marker date="1503644170000" expanded="true" signature="12385:12844" ph="..." />
+            <marker date="1503644170000" expanded="true" signature="12447:12603" ph="..." />
+            <marker date="1503644170000" expanded="true" signature="12539:12586" ph="..." />
+            <marker date="1503644170000" expanded="true" signature="12904:13449" ph="..." />
+            <marker date="1503644170000" expanded="true" signature="12993:13442" ph="..." />
+            <marker date="1503644170000" expanded="true" signature="13002:13429" ph="..." />
+            <marker date="1503644170000" expanded="true" signature="13064:13212" ph="..." />
+            <marker date="1503644170000" expanded="true" signature="13152:13195" ph="..." />
+            <marker date="1503644170000" expanded="true" signature="13489:14108" ph="..." />
+            <marker date="1503644170000" expanded="true" signature="13578:14101" ph="..." />
+            <marker date="1503644170000" expanded="true" signature="13587:14088" ph="..." />
+            <marker date="1503644170000" expanded="true" signature="13649:13819" ph="..." />
+            <marker date="1503644170000" expanded="true" signature="13737:13802" ph="..." />
+            <marker date="1503644170000" expanded="true" signature="14156:14601" ph="..." />
+            <marker date="1503644170000" expanded="true" signature="14191:14592" ph="..." />
+            <marker date="1503644170000" expanded="true" signature="14280:14585" ph="..." />
+            <marker date="1503644170000" expanded="true" signature="14289:14573" ph="..." />
+            <marker date="1503644170000" expanded="true" signature="14351:14485" ph="..." />
+            <marker date="1503644170000" expanded="true" signature="14445:14468" ph="..." />
+            <marker date="1503644170000" expanded="true" signature="14667:14732" ph="..." />
+            <marker date="1503644170000" expanded="true" signature="15667:16053" ph="..." />
+            <marker date="1503644170000" expanded="true" signature="15695:15914" ph="{...}" />
+            <marker date="1503644170000" expanded="true" signature="15746:15786" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/navigation.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="85" column="92" lean-forward="false" selection-start-line="85" selection-start-column="21" selection-end-line="85" selection-end-column="92" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_pages/research.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_pages/personal.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="300">
+            <caret line="20" column="6" lean-forward="false" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_publications/2016-crowdfunding-financial-innovation.md">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -853,8 +1089,8 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="225">
-            <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <first_editor relative-caret-position="180">
+            <caret line="12" column="108" lean-forward="false" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="108" />
             <folding />
           </first_editor>
           <second_editor />
@@ -872,27 +1108,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="85" column="92" lean-forward="false" selection-start-line="85" selection-start-column="21" selection-end-line="85" selection-end-column="92" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_data/navigation.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_pages/personal.md">
+    <entry file="file://$PROJECT_DIR$/_publications/2010-low-cost-sytem-icmmt.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="201">
-            <caret line="14" column="49" lean-forward="false" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+          <first_editor relative-caret-position="210">
+            <caret line="14" column="46" lean-forward="false" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_pages/cv.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="330">
+            <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
             <folding />
           </first_editor>
           <second_editor />
