@@ -9,8 +9,8 @@ redirect_from:
 
 ## Interests
 
-* Reading & Traveling & Meditation
-* Sports: running, swimming, squash
+* General: Reading & Traveling & Meditation
+* Sports:  Running & Swimming & Squash
 * Cooking: Chinese food
   
 ## Contact
