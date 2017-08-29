@@ -2,14 +2,17 @@
 title: "Precision CrowdSourcing: Closing the Loop to Turn Information Consumers into Information Contributors"
 collection: publications
 permalink: /publication/2016-crowdsourcing-cscw
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'We introduce a theoretical framework called precision crowdsourcing whose goal is to help turn online information consumers into information contributors. The framework looks at the timing and nature of the requests made of users and the feedback provided to users with the goal of increasing long-term contribution and engagement in the site or system. We present the results of a field experiment in which almost 3000 users were asked to tag movies (plus a null control group) as we varied the selection of task (popular/obscure), timing of requests (immediate or varying delays), and relational rhetoric (neutral, system reciprocal, other users reciprocal) of the requests. We found that asking increases tags provided overall, though asking generally decreases the provision of unprompted tags. Users were more likely to comply with our request when we asked them to tag obscure movies and when we used reciprocal request rhetoric.'
 date: 2016-03-22
 venue: 'Proceedings of the 19th ACM Conference on Computer-Supported Cooperative Work & Social Computing (CSCW)'
 paperurl: 'http://huangzh0707.github.io/files/PrecisionCrowdsourcing.pdf'
 citation: 'Zhao, Qian, <strong>Zihong Huang</strong>, F. Maxwell F. Harper, Loren G. Terveen, and Joseph A. Konstan. "Precision CrowdSourcing: Closing the Loop to Turn Information Consumers into Information Contributors." In <i>Proceedings of the 19th ACM Conference on Computer-Supported Cooperative Work & Social Computing</i>, pp. 1613-1623. ACM, 2016.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://huangzh0707.github.io/files/PrecisionCrowdsourcing.pdf)
+[Download paper here](http://huangzh0707.github.io/files/PrecisionCrowdsourcing.pdf) <br>
+
+**Abstract**: We introduce a theoretical framework called precision crowdsourcing whose goal is to help turn online information consumers into information contributors. The framework looks at the timing and nature of the requests made of users and the feedback provided to users with the goal of increasing long-term contribution and engagement in the site or system. We present the results of a field experiment in which almost 3000 users were asked to tag movies (plus a null control group) as we varied the selection of task (popular/obscure), timing of requests (immediate or varying delays), and relational rhetoric (neutral, system reciprocal, other users reciprocal) of the requests. We found that asking increases tags provided overall, though asking generally decreases the provision of unprompted tags. 
+Users were more likely to comply with our request when we asked them to tag obscure movies and when we used reciprocal request rhetoric.<br><br>
+**Keywords**: Online Communities; Crowdsourcing; Reciprocity
 
 Recommended citation: Zhao, Qian, <strong>Zihong Huang</strong>, F. Maxwell F. Harper, Loren G. Terveen, and Joseph A. Konstan. "Precision CrowdSourcing: Closing the Loop to Turn Information Consumers into Information Contributors." In <i>Proceedings of the 19th ACM Conference on Computer-Supported Cooperative Work & Social Computing</i>, pp. 1613-1623. ACM, 2016.
