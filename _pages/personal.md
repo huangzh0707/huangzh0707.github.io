@@ -12,7 +12,7 @@ I was born in Yixing, a small town of Jiangsu Province in China.
 
 ## Interests
 
-* General: Reading & Traveling & Meditation
+* General: Reading & Travelling & Meditation
 * Sports:  Running & Swimming & Squash
 * Cooking: Chinese food
   
