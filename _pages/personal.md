@@ -7,6 +7,9 @@ redirect_from:
   - /markdown.html
 ---
 
+I was born in Yixing, a small town of Jiangsu Province in China.
+
+
 ## Interests
 
 * General: Reading & Traveling & Meditation
