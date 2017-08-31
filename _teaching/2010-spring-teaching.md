@@ -2,6 +2,7 @@
 title: "Foundation of Microwave	Engineering (Spring 2010)"
 collection: teaching
 type: "Undergraduate course"
+excerpt: "teaching outside"
 permalink: /teaching/2010-spring-teaching
 venue: "Tsinghua University, Department of Electronic Engineering"
 date: 2010-02-28
