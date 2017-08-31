@@ -8,13 +8,8 @@ date: 2010-02-28
 location: "Beijing, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I am the teaching assistant in this course:
+* Give and score students' homeworks. 
+* Two Q & A sessions a week
 
-Heading 1
-======
 
-Heading 2
-======
-
-Heading 3
-======

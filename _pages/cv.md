@@ -51,7 +51,11 @@ Research experience
 
 Industry experience
 ======
-* <strong>Director of Big Data</strong>, Aug 2016 - Present
+* <strong>CEO</strong>, March 2017 - Present
+  * [DeepSearch.AI](http://120.27.9.73/)
+  * Duties included: Artificial Intelligence framework for venture capital industry
+  
+* <strong>Director of Big Data</strong>, Aug 2016 - Feb 2017
   * [Yuanshi Data](http://data.yuanshihui.com/)
   * Duties included: R&D on big data finance for venture capital industry
 
@@ -87,7 +91,6 @@ Core Courses
   * Calculus: 90
   * Linear Algebra:92
   * Statistics & Stochastic Processes:96
-  * Applied	Information Theory:94
 
 * <strong>Economics</strong>
   * Intermediate Microeconomics: 90
@@ -95,6 +98,7 @@ Core Courses
   * Advanced Macro-Economics:93
 
 * <strong>Computer Science</strong>
+  * Computer Architecture: 97
   * Software Engineering: A-
   * Database Management System:B+
 
