@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b249e945-76f4-426f-9f2f-d3eebc91b38e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_pages/personal.md" afterPath="$PROJECT_DIR$/_pages/personal.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_teaching/2010-spring-teaching.md" afterPath="$PROJECT_DIR$/_teaching/2010-spring-teaching.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_portfolio/01-umn.md" afterPath="$PROJECT_DIR$/_portfolio/01-umn.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2013-09-01-project-1.md" afterPath="$PROJECT_DIR$/_posts/2013-09-01-project-1.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,12 +22,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2010-spring-teaching.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_teaching/2010-spring-teaching.md">
+      <file leaf-file-name="01-umn.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_portfolio/01-umn.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="270">
-                <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <first_editor relative-caret-position="255">
+                <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -35,12 +35,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cv.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_pages/cv.md">
+      <file leaf-file-name="2013-09-01-project-1.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2013-09-01-project-1.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="339">
-                <caret line="58" column="47" lean-forward="false" selection-start-line="58" selection-start-column="47" selection-end-line="58" selection-end-column="47" />
+              <first_editor relative-caret-position="195">
+                <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -103,7 +103,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_publications/2009-10-01-paper-title-number-1.md" />
         <option value="$PROJECT_DIR$/_site/publication/2010-10-01-paper-title-number-2.html" />
         <option value="$PROJECT_DIR$/_site/publications/index.html" />
         <option value="$PROJECT_DIR$/_site/collection-archive/index.html" />
@@ -146,7 +145,6 @@
         <option value="$PROJECT_DIR$/_posts/2017-01-01-project-1.md" />
         <option value="$PROJECT_DIR$/_posts/2016-01-01-project-1.md" />
         <option value="$PROJECT_DIR$/_posts/2015-07-22-project-1.md" />
-        <option value="$PROJECT_DIR$/_posts/2013-09-01-project-1.md" />
         <option value="$PROJECT_DIR$/_posts/2010-02-01-project-1.md" />
         <option value="$PROJECT_DIR$/_posts/2009-10-01-project-1.md" />
         <option value="$PROJECT_DIR$/_posts/2008-01-31-project-1.md" />
@@ -154,6 +152,8 @@
         <option value="$PROJECT_DIR$/_posts/2012-02-15-project-1.md" />
         <option value="$PROJECT_DIR$/_pages/personal.md" />
         <option value="$PROJECT_DIR$/_teaching/2010-spring-teaching.md" />
+        <option value="$PROJECT_DIR$/_posts/2013-09-01-project-1.md" />
+        <option value="$PROJECT_DIR$/_portfolio/01-umn.md" />
       </list>
     </option>
   </component>
@@ -166,7 +166,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="320" />
+    <option name="x" value="330" />
     <option name="y" value="23" />
     <option name="width" value="1509" />
     <option name="height" value="948" />
@@ -211,21 +211,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="_teaching" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="huangzh0707.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="huangzh0707.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_pages" />
+              <option name="myItemId" value="_portfolio" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -342,15 +328,15 @@
       <workItem from="1502952946192" duration="18683000" />
       <workItem from="1503285195091" duration="7051000" />
       <workItem from="1503560965790" duration="13299000" />
-      <workItem from="1503989994343" duration="31333000" />
+      <workItem from="1503989994343" duration="34740000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81666000" />
+    <option name="totallyTimeSpent" value="85073000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="320" y="23" width="1509" height="948" extended-state="0" />
+    <frame x="330" y="23" width="1509" height="948" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2170699" sideWeight="0.49425286" order="0" side_tool="false" content_ui="combo" />
@@ -509,17 +495,6 @@
         <state relative-caret-position="105">
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_portfolio/01-umn.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="105">
-            <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -756,17 +731,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2013-09-01-project-1.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="30">
-            <caret line="2" column="30" lean-forward="false" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2015-07-22-project-1.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -864,8 +828,8 @@
     <entry file="file://$PROJECT_DIR$/_pages/cv.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="339">
-            <caret line="58" column="47" lean-forward="false" selection-start-line="58" selection-start-column="47" selection-end-line="58" selection-end-column="47" />
+          <first_editor relative-caret-position="249">
+            <caret line="52" column="6" lean-forward="true" selection-start-line="52" selection-start-column="6" selection-end-line="52" selection-end-column="6" />
             <folding />
           </first_editor>
           <second_editor />
@@ -876,7 +840,29 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="270">
-            <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2013-09-01-project-1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="195">
+            <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_portfolio/01-umn.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="255">
+            <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
