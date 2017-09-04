@@ -4,4 +4,10 @@ excerpt: "<strong>B.E. in Information Engineering</strong>, June 2009 <br><br/><
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+## Study
+* I finished my undergraduate education here. My major is Information Engineering. 
+* I systematically studied core courses about EE (Electrical Engineering, Electrical Engineering), which established the basis for my future study and research.
+
+## Impressions
+* **Peace**: Nanjing is a peaceful city. The pace of life is not so rush as other big cities.
+* **Campus**: Southeast University is also peaceful, like Nanjing, which is a good place for study.

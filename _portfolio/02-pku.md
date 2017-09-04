@@ -12,6 +12,6 @@ Now its name is changed to National School of Development. The motivation of lea
 * I obtained a habit to explain some economical phenomenon in real world using the principles and theories which I learned in classes. 
 * I also brought engineering methods to Economics to deal with some problems. I find there are many commons across disciplines. 
 
-## Impressions:
+## Impressions
 * **Style**: Although only a street between Tsinghua University(THU) and Peking University(PKU), PKU's style is totally different from THU's, you can feel it in various ways, I summarize them into a word "atmosphere"!
 * **Teachers**: Nearly each professor in CCER holds a Ph.D. degree from universities in U.S., more importantly, their courses are really fascinating. 
