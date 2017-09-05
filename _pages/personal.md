@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-I was born in Yixing, a small town of Jiangsu Province in China.
+I was born in Yixing, a small city in Jiangsu Province, China.
 
 
 ## Interests

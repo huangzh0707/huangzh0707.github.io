@@ -20,6 +20,7 @@ I am also the CEO of [DeepSearch.AI](http://120.27.9.73), which is a startup on 
 * Data Science
 * Financial Innovations
 * Venture Capital
+* User experience design and Human Computer Interaction
 
 ## My dream
 * **Long term**: chang the world and make our life better!
