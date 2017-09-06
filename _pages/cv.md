@@ -84,6 +84,8 @@ Skills
   * Scraping, MySQL, Oracle
 * <strong>Web Development</strong>
   * HTML5 & CSS3, JavaScript, AngularJS, PHP, Django
+* <strong>Prototype</strong>
+  * Axure, Paper
  
 Core Courses
 ======
