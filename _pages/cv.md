@@ -52,7 +52,7 @@ Research experience
 Industry experience
 ======
 * <strong>CEO</strong>, March 2017 - Present
-  * [DeepSearch.AI](http://120.27.9.73/)
+  * [DeepSearch.AI](http://www.deepsearchai.com/)
   * Duties included: Artificial Intelligence framework for venture capital industry
   
 * <strong>Director of Big Data</strong>, Aug 2016 - Feb 2017

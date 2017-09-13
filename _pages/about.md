@@ -12,7 +12,7 @@ Hi, I am Zihong Huang, a FinTech researcher and Data Scientist. I am interested 
 "Data-driven Venture Capital", which is emerging in industry, attracts me most. Currently, I focus my interests on empowering investors in venture capital industry by leveraging information technology and data science.
 In technology areas, I always keep eyes on machine learning and artificial intelligence.
 
-I am also the CEO of [DeepSearch.AI](http://120.27.9.73), which is a startup on venture capital industry data. We are driven to support investors make right investment decisions in primary market. Now we are funded by Angel round investment.
+I am also the CEO of [DeepSearch.AI](http://www.deepsearchai.com/), which is a startup on venture capital industry data. We are driven to support investors make right investment decisions in primary market. Now we are funded by Angel round investment.
 
 ## My interests
 * Machine Learning
