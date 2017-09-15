@@ -14,13 +14,14 @@ In technology areas, I always keep eyes on machine learning and artificial intel
 
 I am also the CEO of [DeepSearch.AI](http://www.deepsearchai.com/), which is a startup on venture capital industry data. We are driven to support investors make right investment decisions in primary market. Now we are funded by Angel round investment.
 
-## My interests
-* Machine Learning
-* Artificial Intelligence
-* Data Science
-* Financial Innovations
-* Venture Capital
-* User experience design and Human Computer Interaction
+## Interests
+* Machine learning applications in financial innovations
+
+## Expertise
+* Crowdfunding
+* Modeling and Prediction
+* Business Analytics
+* Human Computer Interaction (HCI)
 
 ## My dream
 * **Long term**: chang the world and make our life better!
