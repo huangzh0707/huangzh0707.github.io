@@ -56,7 +56,7 @@ Industry experience
   * Duties included: Artificial Intelligence framework for venture capital industry
   
 * <strong>Director of Big Data</strong>, Aug 2016 - Feb 2017
-  * [Yuanshi Data](http://data.yuanshihui.com/)
+  * [Yuanshihui Inc.](http://www.yuanshihui.com/)
   * Duties included: R&D on big data finance for venture capital industry
 
 * <strong>Product Manager</strong>, Jan 2016 - Aug 2016
