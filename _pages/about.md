@@ -23,7 +23,7 @@ I am also the CEO of [DeepSearch.AI](http://www.deepsearchai.com/), which is a s
 * Business Analytics
 * Human Computer Interaction (HCI)
 
-## My dream
+## News
 * **Long term**: Change the world and make our life better!
 * **Short term** (in next 5 years): Get a PhD degree! 
   * For me, PhD itself is an objective rather than a way to others.
