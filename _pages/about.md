@@ -15,17 +15,21 @@ In technology areas, I always keep eyes on machine learning and artificial intel
 I am also the CEO of [DeepSearch.AI](http://www.deepsearchai.com/), which is a startup on venture capital industry data. We are driven to support investors make right investment decisions in primary market. Now we are funded by Angel round investment.
 
 ## Interests
-* Machine learning applications in financial innovations
+* financial technology and innovations
 
 ## Expertise
+* Payment, clearing and settlement systems
+* Blockchain, digital cryptocurrency
+* Machine learning applications
+* Data Analytics
 * Crowdfunding
-* Modeling and Prediction
-* Business Analytics
+* Venture capital
 * Human Computer Interaction (HCI)
 
 ## News
-* **Long term**: Change the world and make our life better!
-* **Short term** (in next 5 years): Get a PhD degree! 
-  * For me, PhD itself is an objective rather than a way to others.
+* **August 2018** 
+    <br> Start PhD Study in Carlson School of Management, University of Minnesota
+* **April 2018** 
+    <br> Join China National Clearing Center, People's Bank of China
   
   
