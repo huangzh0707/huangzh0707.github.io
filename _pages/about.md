@@ -8,14 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Zihong Huang, a FinTech researcher and Data Scientist. I am interested in financial innovations like crowdfunding, robo-advisor, blockchain et al. 
-"Data-driven Venture Capital", which is emerging in industry, attracts me most. Currently, I focus my interests on empowering investors in venture capital industry by leveraging information technology and data science.
-In technology areas, I always keep eyes on machine learning and artificial intelligence.
+Hi, I am Zihong Huang, a PhD student in **Carlson School of Management, University of Minnesota**. My major is information and Decision Sciences. I am interested in 
+I am interested in financial innovations like data-driven venture capital, crowdfunding, robo-advisor, blockchain and so on. I focus my interests on 
+empowering people in conventional financial market by leveraging information technology and data science.<br>
 
-I am also the CEO of [DeepSearch.AI](http://www.deepsearchai.com/), which is a startup on venture capital industry data. We are driven to support investors make right investment decisions in primary market. Now we are funded by Angel round investment.
+I am also a FinTech researcher in **China National Clearing Center, People's Bank of China**. My work mainly lies in FinTech innovations and applications in
+payment, clearing and settlement systems. Currently, I am involved in a project that is cross-border payment systems based on blockchain. 
+Besides, I also follow other topics like mobile payments and payment big-data.<br>
+
+Plus, I am also the CEO of **DeepSearch.AI**, which is a startup on data of venture capital industry. Data-driven venture capital framework is expected,
+and We are driven to support investors make right investment decisions in primary market.
+
 
 ## Interests
-* financial technology and innovations
+* Empowering people in conventional financial markets by leveraging information technology and data science.
 
 ## Expertise
 * Payment, clearing and settlement systems

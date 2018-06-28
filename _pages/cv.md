@@ -13,18 +13,16 @@ Also available in [PDF](http://huangzh0707.github.io/files/CV2017.pdf)
 
 Education
 ======
+* <strong>PhD. in Carlson School of Management, University of Minnesota, MN, U.S.</strong>
+  * Ongoing: expected in 2022
 * <strong>M.S. in Computer Science, University of Minnesota, MN, U.S.</strong>
   * Date: July 2015
-  * GPA: 3.43/4.00
 * <strong>B.S. in Economics, Peking University, Beijing, China</strong>
   * Date: July 2013
-  * GPA: 3.03/4.00
 * <strong>M.E. in Electronic Engineering, Tsinghua University, Beijing, China</strong>
   * Date: June 2012
-  * GPA: 3.66/4.00
 * <strong>B.E. in Information Engineering, Southeast University, Nanjing, China</strong>
   * Date: June 2009
-  * GPA: 3.65/4.00
     
 Publications
 ======
@@ -51,20 +49,24 @@ Research experience
 
 Industry experience
 ======
-* <strong>CEO</strong>, March 2017 - Present
-  * [DeepSearch.AI](http://www.deepsearchai.com/)
+* <strong>FinTech Researcher</strong>, April 2018 - present
+  * China National Clearing Center, People's Bank of China
+  * Duties included: FinTech research in payment, clearing and settlement systems
+  
+* <strong>CEO</strong>, March 2017 - April 2018
+  * DeepSearch.AI
   * Duties included: Artificial Intelligence framework for venture capital industry
   
 * <strong>Director of Big Data</strong>, Aug 2016 - Feb 2017
-  * [Yuanshihui Inc.](http://www.yuanshihui.com/)
+  * Yuanshihui Inc.
   * Duties included: R&D on big data finance for venture capital industry
 
 * <strong>Product Manager</strong>, Jan 2016 - Aug 2016
-  * [Yuanshihui Inc.](http://www.yuanshihui.com/)
+  * Yuanshihui Inc.
   * Duties included: R&D on equity-based crowdfunding
   
 * <strong>Software Engineer & Product Manager</strong>, Jul 2015 - Jan 2016
-  * [Zhongchou Inc.](http://www.zhongchou.com/)
+  * Zhongchou Inc.
   * Duties included: Web development & R&D on reward-based crowdfunding
 
 
@@ -87,26 +89,4 @@ Skills
 * <strong>Prototype</strong>
   * Axure, Paper
  
-Core Courses
-======
-* <strong>Mathematics</strong>
-  * Calculus: 90
-  * Linear Algebra:92
-  * Statistics & Stochastic Processes:96
 
-* <strong>Economics</strong>
-  * Intermediate Microeconomics: 90
-  * Intermediate Macroeconomics:90
-  * Advanced Macro-Economics:93
-
-* <strong>Computer Science</strong>
-  * Computer Architecture: 97
-  * Software Engineering: A-
-  * Database Management System:B+
-
-Standard Test
-======
-* <strong>GRE</strong>
-  * Verbal:153 (60%)
-  * Quantitative:164 (87%)
-  * AW:3.5 (42%)
