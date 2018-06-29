@@ -16,13 +16,13 @@ Education
 * <strong>PhD. in Carlson School of Management, University of Minnesota, MN, U.S.</strong>
   * Ongoing: expected in 2022
 * <strong>M.S. in Computer Science, University of Minnesota, MN, U.S.</strong>
-  * Date: July 2015
+  * Degree conferred: July 2015
 * <strong>B.S. in Economics, Peking University, Beijing, China</strong>
-  * Date: July 2013
+  * Degree conferred: July 2013
 * <strong>M.E. in Electronic Engineering, Tsinghua University, Beijing, China</strong>
-  * Date: June 2012
+  * Degree conferred: June 2012
 * <strong>B.E. in Information Engineering, Southeast University, Nanjing, China</strong>
-  * Date: June 2009
+  * Degree conferred: June 2009
     
 Publications
 ======
