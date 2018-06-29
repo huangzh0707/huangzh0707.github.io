@@ -8,26 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Zihong Huang, a PhD student in **Carlson School of Management, University of Minnesota**. My major is information and Decision Sciences. I am interested in 
+Hi, I am Zihong Huang, a PhD student in **Carlson School of Management, University of Minnesota**. My major is Information and Decision Sciences. 
 I am interested in financial innovations like data-driven venture capital, crowdfunding, robo-advisor, blockchain and so on. I focus my interests on 
-empowering people in conventional financial market by leveraging information technology and data science.<br>
+empowering people in conventional financial markets by leveraging information technology and data sciences.<br>
 
-I am also a FinTech researcher in **China National Clearing Center, People's Bank of China**. My work mainly lies in FinTech innovations and applications in
+I am also a FinTech researcher in **China National Clearing Center, People's Bank of China**. My work primarily lies in FinTech innovations and applications in
 payment, clearing and settlement systems. Currently, I am involved in a project that is cross-border payment systems based on blockchain. 
-Besides, I also follow other topics like mobile payments and payment big-data.<br>
+Besides, I also follow other topics like mobile payments and payment big data.<br>
 
 Plus, I am also the CEO of **DeepSearch.AI**, which is a startup on data of venture capital industry. Data-driven venture capital framework is expected,
-and We are driven to support investors make right investment decisions in primary market.
+and we are driven to support investors make optimal investment decisions in primary market.
 
 
 ## Interests
-* Empowering people in conventional financial markets by leveraging information technology and data science.
+* Empowering people in conventional financial markets by leveraging information technology and data sciences.
 
 ## Expertise
 * Payment, clearing and settlement systems
 * Blockchain, digital cryptocurrency
 * Machine learning applications
-* Data Analytics
+* Business Analytics
 * Crowdfunding
 * Venture capital
 * Human Computer Interaction (HCI)
