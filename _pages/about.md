@@ -23,12 +23,12 @@ and we are driven to support investors make optimal investment decisions in prim
 
 ## Interests
 * My research interests broadly lie in FinTech and Business Intelligence. Currently, I am looking into the following streams:
-*Impact of Online Bots, 
-*AI-empowered Venture Capital, 
-*Online Auctions, 
-*Crowdfunding,
-*Underground Economy on Internet, 
-*Payment Innovations
+* Impact of Online Bots 
+* AI-empowered Venture Capital
+* Online Auctions 
+* Crowdfunding
+* Underground Economy on Internet 
+* Payment Innovations
 
 ## Expertise
 * Payment, clearing and settlement systems
