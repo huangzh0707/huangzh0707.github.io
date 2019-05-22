@@ -22,7 +22,7 @@ and we are driven to support investors make optimal investment decisions in prim
 
 
 ## Interests
-* My research interests broadly lie in FinTech and Business Intelligence. Currently, I am looking into the following streams:
+My research interests broadly lie in FinTech and Business Intelligence. Currently, I am looking into the following streams:
 * Impact of Online Bots 
 * AI-empowered Venture Capital
 * Online Auctions 
