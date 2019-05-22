@@ -9,7 +9,7 @@ redirect_from:
                    
 {% include base_path %}
 
-Also available in [PDF](http://huangzh0707.github.io/files/CV_May2019.pdf)
+Update in May 2019 [PDF](http://huangzh0707.github.io/files/CV_May2019.pdf)
 
 Education
 ======
