@@ -20,8 +20,15 @@ Plus, I am also the CEO of **DeepSearch.AI**, which is a startup on data of vent
 and we are driven to support investors make optimal investment decisions in primary market.
 
 
+
 ## Interests
-* Empowering people in conventional financial markets by leveraging information technology and data sciences.
+* My research interests broadly lie in FinTech and Business Intelligence. Currently, I am looking into the following streams:
+*Impact of Online Bots, 
+*AI-empowered Venture Capital, 
+*Online Auctions, 
+*Crowdfunding,
+*Underground Economy on Internet, 
+*Payment Innovations
 
 ## Expertise
 * Payment, clearing and settlement systems
