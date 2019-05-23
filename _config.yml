@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zihong Huang"
 title_separator          : "-"
 name                     : &name "Zihong Huang"
-description              : &description "Data Scientist"
+description              : &description "IS Researcher"
 url                      : https://huangzh0707.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : huangzh0707/huangzh0707.github.io

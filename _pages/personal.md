@@ -7,19 +7,19 @@ redirect_from:
   - /markdown.html
 ---
 
-I was born in Yixing, a small city in Jiangsu Province, China.
+I was born in Yixing, a small town in Jiangsu Province, China.
 
 
 ## Interests
 
-* General: Reading & Travelling & Meditation
-* Sports:  Running & Swimming & Squash
+* General: Reading, Travelling, Meditation
+* Sports:  Running, Swimming, Squash
 * Cooking: Chinese food
   
 ## Contact
 
-* E-mail:  huangzh0707 (at) gmail (dot) com
-* Phone:   (86) 185-1450-5806 
+* E-mail:  718296422 (at) qq (dot) com
+* Phone:   +1 612-666-3633 
 * WeChat:  718296422
 
 
