@@ -6,7 +6,7 @@ excerpt: 'Jump bidding is a prevent phenomenon in online auctions with important
 date: 2019-05-01
 venue: 'International Conference on Information Systems(ICIS)'
 paperurl: 'http://huangzh0707.github.io/files/sam.pdf'
-citation: '<strong>Zihong Huang</strong>, De Liu, and Alok Gupta. Budget Induced Strategic Bidding in Multiunit Online Auctions.In ICIS 2019 Proceedings, Munich, Germany, 2019.'
+citation: '<strong>Zihong Huang</strong>, De Liu, and Alok Gupta. Budget Induced Strategic Bidding in Multiunit Online Auctions. In <i>ICIS 2019 Proceedings</i>, Munich, Germany, 2019.'
 ---
 
 [Download paper here](http://huangzh0707.github.io/files/sam.pdf) <br>
@@ -15,4 +15,4 @@ citation: '<strong>Zihong Huang</strong>, De Liu, and Alok Gupta. Budget Induced
 
 
 Recommended citation: Zihong Huang, De Liu, and Alok Gupta. Budget Induced Strategic Bidding in Multiunit Online Auctions.
-In ICIS 2019 Proceedings, Munich, Germany, 2019
+In <i>ICIS 2019 Proceedings</i>, Munich, Germany, 2019
