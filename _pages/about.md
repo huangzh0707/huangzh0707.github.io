@@ -12,14 +12,14 @@ Hi, I am Zihong, a PhD student in **Information & Decision Sciences**, Carlson S
 empowering people in real business world by leveraging information technology and data sciences.<br>
 
 ## Interests
-My research interests broadly lie in FinTech and Business Intelligence. Currently, I am looking into the following streams:
-* Economic Impact of Online Bots 
+My research interests broadly lie in shadow online industry FinTech. Currently, I am looking into the following streams:
+* Economics of Social Media Fake Accounts 
 * AI-empowered Venture Capital
 * Online Auctions 
 * Crowdfunding
-* Underground Economy on Internet 
+* Supply Chain Finance 
 * Payment Innovations
-* Human Computer Interaction (HCI)
+
 
 ## Methodology Toolbox
 * Analytical Modeling (Game Theory)
@@ -27,6 +27,8 @@ My research interests broadly lie in FinTech and Business Intelligence. Currentl
 * Predictive Analytics (Machine Learning)
 
 ## News
+* **July 2020**
+    <br> Survive the second year in Carlson School of Management
 * **May 2019**
     <br> Survive the tough first year in B-school!!!
 * **August 2018** 

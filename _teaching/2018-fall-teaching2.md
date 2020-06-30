@@ -1,5 +1,5 @@
 ---
-title: "Descriptive and Predictive Analytics (Fall 2018)"
+title: "Descriptive and Predictive Analytics (Fall 2018, Spring 2020)"
 collection: teaching
 type: "IDSC 4444"
 excerpt: "In a world of ever growing information sources, any student of business should be equipped with the ability to analyze data to produce actionable insights. Equally important is the capacity to understand such analysis and to present it to key stakeholders. IDSc 4444 offers an introduction to basics of data manipulation, visualization and analysis for business intelligence."
