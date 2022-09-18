@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Zihong, a PhD student in **Information & Decision Sciences**, Carlson School of Management, University of Minnesota. My passion lies on 
+Hi, I am Zihong, a PhD candidate in **Information & Decision Sciences**, Carlson School of Management, University of Minnesota. My passion lies on 
 empowering people in real business world by leveraging information technology and data sciences.<br>
 
 ## Interests
@@ -17,8 +17,7 @@ My research interests broadly lie in shadow online industry FinTech. Currently, 
 * AI-empowered Venture Capital
 * Online Auctions 
 * Crowdfunding
-* Supply Chain Finance 
-* Payment Innovations
+
 
 
 ## Methodology Toolbox
