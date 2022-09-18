@@ -9,12 +9,12 @@ redirect_from:
                    
 {% include base_path %}
 
-Update in May 2020 [(PDF)](http://huangzh0707.github.io/files/CV_May2020.pdf)
+Update in Sep 2022 [(PDF)](http://huangzh0707.github.io/files/CV_Zihong_Huang_Sep_2022.pdf)
 
 Education
 ======
 * **Ph.D.** in Carlson School of Management, University of Minnesota, MN, U.S.
-  * Ongoing: expected in 2022
+  * Ongoing: expected in 2024
 * **M.S.** in Computer Science, University of Minnesota, MN, U.S.
   * Degree conferred: July 2015
 * **B.S.** in Economics, Peking University, Beijing, China
@@ -61,6 +61,7 @@ Industry experience
 Services
 ======
 * **Professional Services - Conference Reviewer**
-  * Reviewer, International Conference on Information Systems(ICIS), 2019
+  * Reviewer, Information Systems Research (ISR)
+  * Reviewer, International Conference on Information Systems(ICIS), 2019,2021,2022
 
 
