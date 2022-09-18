@@ -10,15 +10,9 @@ redirect_from:
 I was born in Yixing, a small town in Jiangsu Province, China.
 
 
-## Interests
-
-* General: Reading, Travelling, Meditation
-* Sports:  Running, Swimming, Squash
-* Cooking: Chinese food
-  
 ## Contact
 
-* E-mail:  718296422 (at) qq (dot) com
+* E-mail:  huan0707 (at) umn (dot) edu
 * Phone:   +1 612-666-3633 
 * WeChat:  718296422
 
