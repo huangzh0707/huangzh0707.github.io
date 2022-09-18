@@ -1,11 +1,11 @@
 ---
-title: "IDSC 4444: Descriptive and Predictive Analytics (Fall 2018,2022 Spring 2020,2021,2022)"
+title: "IDSC 4444: Descriptive and Predictive Analytics (Fall 2020, Spring 2021)"
 collection: teaching
-type: "Teaching Assistant"
+type: "Instructor"
 excerpt: "In a world of ever growing information sources, any student of business should be equipped with the ability to analyze data to produce actionable insights. Equally important is the capacity to understand such analysis and to present it to key stakeholders. IDSc 4444 offers an introduction to basics of data manipulation, visualization and analysis for business intelligence."
-permalink: /teaching/2019-fall-teaching2
+permalink: /teaching/2021-spring-teaching1
 venue: "Carlson School of Management, University of Minnesota"
-date: 2018-09-03
+date: 2021-05-03
 location: "Minneapolis, MN"
 ---
 
