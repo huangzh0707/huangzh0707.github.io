@@ -49,14 +49,11 @@ Teaching Experience
  
 Industry experience
 ======
-* **Payments**, 2018 
-  * FinTech researcher at China National Clearing Center, People's Bank of China
-  
-* **Finance Big Data for Venture Capital**, 2017
-  * CEO at DeepSearch.AI
-  
-* **Crowdfunding**, 2015-2016
-  * Product manager at Zhongchou Inc.(Reward-based) & Yuanshihui Inc.(Equity-based)
+* **FinTech**, 2018 
+  * FinTech researcher at People's Bank of China
+
+* **Crowdfunding**, 2015-2017
+  * Product manager at Crowdfunding companies (reward-based and equity-based)
 
 Services
 ======
