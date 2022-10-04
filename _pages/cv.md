@@ -43,6 +43,23 @@ Teaching Interests
 * **Seminar courses**: Doctoral level
   * Economics of IS: conceptual topics and research methods 
 
+Papers Under Review
+======
+* **Zihong Huang**, De Liu. Economics of Social Media Fake Accounts. <em>Under review at **Management
+Science**</em>. (<em>Job market paper</em>), [PDF](http://huangzh0707.github.io/files/Paper1_jobmarketpaper.pdf) 
+[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4206104) 
+* Jason Chan, **Zihong Huang**, De Liu, and Zhigang Cai. Better to Give Than to Receive: Impacts
+of Donation-Based Contribution Schemes on Crowdfunding Outcomes. <em>Conditionally accepted by
+**Information Systems Research**</em>, [PDF](http://huangzh0707.github.io/files/Paper2_zhongchou.pdf)
+
+Working Papers & Work-in-Progress Projects
+======
+* **Zihong Huang**, Xuan Bi, and De Liu. AI-empowered Venture Capital (VC): The Impact of AI
+Adoption on VC Firms’ Success.(<em>Working paper</em>)
+* **Zihong Huang**, De Liu, and Alok Gupta. Budget Induced Strategic Bidding in Multiunit Online
+Auctions. (<em>Working paper</em>)
+* **Zihong Huang**, De Liu. Economics of Politically Motivated Fake Accounts. (<em>Model building</em>)
+
   
 Publications
 ======
