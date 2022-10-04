@@ -1,7 +1,7 @@
 ---
 title: "MSBA 6410: Exploratory Data Analytics and Visualization (Fall 2019)"
 collection: teaching
-type: "**Teaching Assistant**"
+type: "<strong>Teaching Assistant</strong>**"
 excerpt: "MSBA 6410 is a required course for the M.S. in Business Analytics program. This course is
 designed to prepare aspiring data scientists for the rapidly changing digital environment faced by
 companies and their need to discover novel and actionable patterns, enabling data-driven
