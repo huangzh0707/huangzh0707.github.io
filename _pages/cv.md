@@ -90,10 +90,11 @@ Industry Experience
 * **Crowdfunding**, 2015-2017
   * Product manager at Zhongchou.com
 
-Professional Services
+Professional Service
 ======
 * Reviewer, Information Systems Research (ISR)
-* Reviewer, International Conference on Information Systems(ICIS), 2019,2021,2022
+* Reviewer, International Conference on Information Systems (ICIS), 2019,2021,2022
+* Reviewer, Hawaii International Conference on System Sciences (HICSS), 2023
 
 Technical Skills
 ======
