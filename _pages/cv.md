@@ -88,4 +88,6 @@ Services
   * Reviewer, Information Systems Research (ISR)
   * Reviewer, International Conference on Information Systems(ICIS), 2019,2021,2022
 
-
+Technical Skills
+======
+R, Python, Stata, Matlab, SQL
