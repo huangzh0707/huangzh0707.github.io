@@ -26,6 +26,14 @@ Education
 
 Research Interests
 ======
+* **Economics of Social Media Manipulation** 
+  * Methods: Analytical modeling (game theory)
+
+* **Role of IT and AI on FinTech Markets**
+  * Methods: Econometrics
+  
+Teaching Interests
+======
 * **Business Analytics** undergraduate/MSBA level
   * Descriptive analytics, predictive analytics, and causal analytics
 
@@ -35,13 +43,7 @@ Research Interests
 * **Seminar courses**, Doctoral level
   * Economics of IS: conceptual topics and research methods 
 
-Teaching Interests
-======
-* **Economics of Social Media Manipulation** 
-  * Methods: Analytical modeling (game theory)
 
-* **Role of IT and AI on FinTech Markets**
-  * Methods: Econometrics
     
 Publications
 ======
