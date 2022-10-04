@@ -34,17 +34,16 @@ Research Interests
   
 Teaching Interests
 ======
-* **Business Analytics** undergraduate/MSBA level
+* **Business Analytics**: undergraduate/MSBA level
   * Descriptive analytics, predictive analytics, and causal analytics
 
-* **MIS courses**, MBA level
+* **MIS courses**: MBA level
   * Strategic and managerial issues in IT/analytics topics
 
-* **Seminar courses**, Doctoral level
+* **Seminar courses**: Doctoral level
   * Economics of IS: conceptual topics and research methods 
 
-
-    
+  
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
