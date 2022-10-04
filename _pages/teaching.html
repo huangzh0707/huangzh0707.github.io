@@ -1,6 +1,19 @@
 ---
 layout: archive
-title: "Instructor/Teaching Assistant"
+title: "Instructor"
+permalink: /teaching/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% for post in site.Instructor reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+---
+layout: archive
+title: "Teaching Assistant"
 permalink: /teaching/
 author_profile: true
 ---
