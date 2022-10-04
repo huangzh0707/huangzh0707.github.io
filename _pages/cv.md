@@ -13,8 +13,8 @@ Update in Sep 2022 [(PDF)](http://huangzh0707.github.io/files/CV_Zihong_Huang_v4
 
 Education
 ======
-* **Ph.D.** in Carlson School of Management, University of Minnesota, MN, U.S.
-  * Ongoing: expected in 2024
+* **Ph.D.** in Information & Decision Sciences, Carlson School of Management, University of Minnesota, MN, U.S.
+  * Ongoing: expected in 2023
 * **M.S.** in Computer Science, University of Minnesota, MN, U.S.
   * Degree conferred: July 2015
 * **B.S.** in Economics, Peking University, Beijing, China
