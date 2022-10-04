@@ -14,7 +14,7 @@ empowering people in real business world by leveraging information technology an
 ## Interests
 My research interests broadly lie in the following two streams:
 * Economics of social media manipulation
-* Impact of information technology on financial innovation 
+* Role of IT and AI on FinTech Markets 
 
 ## Methodology Toolbox
 * Analytical modeling (Game theory)
@@ -22,6 +22,8 @@ My research interests broadly lie in the following two streams:
 * Predictive analytics (Machine learning)
 
 ## News
+* **Sep 2022**
+    <br> On the job market!
 * **July 2021**
     <br> Pass the oral preliminary exam
 * **Sep 2020**

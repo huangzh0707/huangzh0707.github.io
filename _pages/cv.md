@@ -9,7 +9,7 @@ redirect_from:
                    
 {% include base_path %}
 
-Update in Sep 2022 [(PDF)](http://huangzh0707.github.io/files/CV_Zihong_Huang_Sep_2022.pdf)
+Update in Sep 2022 [(PDF)](http://huangzh0707.github.io/files/CV_Zihong_Huang_v4.pdf)
 
 Education
 ======
@@ -57,7 +57,7 @@ Industry experience
 
 Services
 ======
-* **Professional Services - Conference Reviewer**
+* **Professional Services**
   * Reviewer, Information Systems Research (ISR)
   * Reviewer, International Conference on Information Systems(ICIS), 2019,2021,2022
 
