@@ -97,4 +97,4 @@ Professional Services
 
 Technical Skills
 ======
-R, Python, Stata, Matlab, SQL
+Mathematica, R, Python, Stata, Matlab, SQL
