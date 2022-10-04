@@ -23,6 +23,25 @@ Education
   * Degree conferred: June 2012
 * **B.E.** in Information Engineering, Southeast University, Nanjing, China
   * Degree conferred: June 2009
+
+Research Interests
+======
+* **Business Analytics** undergraduate/MSBA level
+  * Descriptive analytics, predictive analytics, and causal analytics
+
+* **MIS courses**, MBA level
+  * Strategic and managerial issues in IT/analytics topics
+
+* **Seminar courses**, Doctoral level
+  * Economics of IS: conceptual topics and research methods 
+
+Teaching Interests
+======
+* **Economics of Social Media Manipulation** 
+  * Methods: Analytical modeling (game theory)
+
+* **Role of IT and AI on FinTech Markets**
+  * Methods: Econometrics
     
 Publications
 ======
@@ -30,16 +49,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Research experience
-======
-* **Research Assistant**, 2018-present 
-  * Dept. of Information & Decision Sciences, Unviversity of Minnesota
-  
-* **Research Assistant**, 2013-2015 
-  * Dept. of Computer Science& Engineering, Unviversity of Minnesota
-  
-* **Research Assistant**, 2009-2013 
-  * Dept. of Electronic Engineering, Tsinghua Unviversity
 
 Teaching Experience
 ======
@@ -50,10 +59,10 @@ Teaching Experience
 Industry experience
 ======
 * **FinTech**, 2018 
-  * FinTech researcher at People's Bank of China
+  * FinTech researcher at China's central bank
 
 * **Crowdfunding**, 2015-2017
-  * Product manager at Crowdfunding companies (reward-based and equity-based)
+  * Product manager at Zhongchou.com
 
 Services
 ======
