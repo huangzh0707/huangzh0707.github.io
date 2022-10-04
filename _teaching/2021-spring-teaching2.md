@@ -1,7 +1,7 @@
 ---
 title: "MSBA 6441: Causal Inference via Econometrics and Experimentation (Spring 2021)"
 collection: teaching
-type: "Teaching Assistant"
+type: "**Teaching Assistant**"
 excerpt: "MSBA 6441 is intended to help students obtain skills in data analysis, with the following specific goals:
 to familiarize you with the process of assembling and analyzing a dataset to address a business problem;
 to introduce the notion of an “experiment” and the distinction between correlation and causation, in data;

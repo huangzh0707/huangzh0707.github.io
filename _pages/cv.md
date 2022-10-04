@@ -74,7 +74,7 @@ Teaching Experience
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
  
-Industry experience
+Industry Experience
 ======
 * **FinTech**, 2018 
   * FinTech researcher at China's central bank

@@ -1,7 +1,7 @@
 ---
 title: "IDSC 4210: Interactive Data Visualization for Business Analytics (Spring 2020)"
 collection: teaching
-type: "Teaching Assistant"
+type: "**Teaching Assistant**"
 excerpt: "IDSC 4210 is an elective course for the undergraduate Business Analytics minor at the Carlson School of Management. It focuses on the fundamental and widely used exploratory data analysis technique of interactive visualization that is integral to modern business analytics."
 permalink: /teaching/2020-spring-teaching
 venue: "Carlson School of Management, University of Minnesota"

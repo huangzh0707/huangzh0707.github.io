@@ -1,7 +1,7 @@
 ---
 title: "IDSC 6050: Information Technologies and Solutions (Fall 2018)"
 collection: teaching
-type: "Teaching Assistant"
+type: "**Teaching Assistant**"
 excerpt: "This course is about current/emerging technologies that are used in modern net-enhanced organizations. Topics covered will include mobile communications, information security, cloud computing, blockchains, and emerging IT trends."
 permalink: /teaching/2019-fall-teaching1
 venue: "Carlson School of Management, University of Minnesota"

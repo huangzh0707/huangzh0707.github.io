@@ -1,7 +1,7 @@
 ---
 title: "MSBA 6430: Advanced Issues in Business Analytics (Spring 2019)"
 collection: teaching
-type: "Teaching Assistant"
+type: "**Teaching Assistant**"
 excerpt: "Time series analysis and forecasting & Personalization and latent factor modeling"
 permalink: /teaching/2019-spring-teaching
 venue: "Carlson School of Management, University of Minnesota"
