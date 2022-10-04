@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Zihong, a PhD candidate in Information & Decision Sciences at Carlson School of Management, University of Minnesota. <br>
-I am on the job market now, and looking for an **Assistant Professor position (tenure-track)** in **Business Analytics/Information Systems** area at Business School. <br>
+Hi, I am Zihong, a PhD candidate in Information & Decision Sciences at Carlson School of Management, University of Minnesota. <br><br>
+I am on the job market now, and looking for an **Assistant Professor position (tenure-track)** in **Business Analytics/Information Systems** area at Business School. <br><br>
 My passion lies on empowering people in real business world by leveraging information technology and data sciences.<br>
 
 ## Interests
