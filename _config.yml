@@ -212,6 +212,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _Instructor
+  - scope:
+      path: ""
+      type: Instructor
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _publications
   - scope:
       path: ""
