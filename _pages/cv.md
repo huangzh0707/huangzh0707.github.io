@@ -66,20 +66,22 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
 
-Teaching Experience: Instructor
+Teaching Experience
 ======
-  <ul>{% for post in site.Instructor reversed%}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* **Instructor** at University of Minnesota
+  * IDSC 4444: Descriptive and Predictive Analytics
+    * Fall 2021 (in-person): 5.31/6
+    * Fall 2020 (online): 4.89/6
+<br>
+* **Teaching Assistant** at University of Minnesota
+  * MABA 6441: Causal Inference via Econometrics and Experimentation (Spring 2021)
+  * MSBA 6430: Advanced Issues in Business Analytics (Spring 2019)
+  * MSBA 6410: Exploratory Data Analytics and Visualization (Fall 2019)
+  * IDSC 6050: Information Technologies and Solutions (Fall 2018)
+  * IDSC 4444: Descriptive and Predictive Analytics (Fall 2018, 2022; Spring 2020, 2021, 2022)
+  * IDSC 4210: Interactive Data Visualization for Business Analytics (Spring 2020)
 
-Teaching Experience: TA
-======
-  <ul>{% for post in site.teaching reversed%}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
- 
 Industry Experience
 ======
 * **FinTech**, 2018 
