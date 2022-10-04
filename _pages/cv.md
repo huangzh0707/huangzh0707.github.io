@@ -68,7 +68,13 @@ Publications
   {% endfor %}</ul>
   
 
-Teaching Experience
+Teaching Experience: Instructor
+======
+  <ul>{% for post in site.Instructor reversed%}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Teaching Experience: TA
 ======
   <ul>{% for post in site.teaching reversed%}
     {% include archive-single-cv.html %}
