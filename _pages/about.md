@@ -26,10 +26,10 @@ My research interests broadly lie in the following two streams:
 * **Sep 2022**
     <br> On the job market!
 * **July 2021**
-    <br> Pass the oral preliminary exam
+    <br> Passed the oral preliminary exam
 * **Sep 2020**
-    <br> Pass the written preliminary exam
+    <br> Passed the written preliminary exam
 * **August 2018** 
-    <br> Start PhD Study in Carlson School of Management, University of Minnesota
+    <br> Started the Ph.D. Study at Carlson School of Management, University of Minnesota
   
   
