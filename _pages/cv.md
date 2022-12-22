@@ -9,7 +9,7 @@ redirect_from:
                    
 {% include base_path %}
 
-Update in Sep 2022 [(PDF)](http://huangzh0707.github.io/files/CV_Zihong_Huang_v4.pdf)
+Update in Dec 2022 [(PDF)](http://huangzh0707.github.io/files/CV_Zihong_Huang_v5.pdf)
 
 Education
 ======
@@ -45,7 +45,7 @@ Teaching Interests
 
 Papers Under Review
 ======
-* **Zihong Huang**, De Liu. Economics of Social Media Fake Accounts. <em>Under review at **Management
+* **Zihong Huang**, De Liu. Economics of Social Media Fake Accounts. <em>Major revision at **Management
 Science**</em>. (<em>Job market paper</em>), [PDF](http://huangzh0707.github.io/files/Paper1_jobmarketpaper.pdf) 
 [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4206104) 
 * Jason Chan, **Zihong Huang**, De Liu, and Zhigang Cai. Better to Give Than to Receive: Impacts
