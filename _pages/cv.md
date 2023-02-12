@@ -9,7 +9,7 @@ redirect_from:
                    
 {% include base_path %}
 
-Update in Dec 2022 [(PDF)](http://huangzh0707.github.io/files/CV_Zihong_Huang_v5.pdf)
+Update in Feb 2023 [(PDF)](http://huangzh0707.github.io/files/CV_Zihong_Huang_v5.pdf)
 
 Education
 ======
@@ -49,7 +49,7 @@ Papers Under Review
 Science**</em>. (<em>Job market paper</em>), [PDF](http://huangzh0707.github.io/files/Paper1_jobmarketpaper.pdf) 
 [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4206104) 
 * Jason Chan, **Zihong Huang**, De Liu, and Zhigang Cai. Better to Give Than to Receive: Impacts
-of Donation-Based Contribution Schemes on Crowdfunding Outcomes. <em>Conditionally accepted by
+of Donation-Based Contribution Schemes on Crowdfunding Outcomes. <em>Accepted at
 **Information Systems Research**</em>, [PDF](http://huangzh0707.github.io/files/Paper2_zhongchou.pdf)
 
 Working Papers & Work-in-Progress Projects
