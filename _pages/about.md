@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Zihong, a PhD candidate in Information & Decision Sciences at Carlson School of Management, University of Minnesota. <br><br>
-I am on the job market now, and looking for an **Assistant Professor position (tenure-track)** in **Business Analytics/Information Systems** area at Business School. <br><br>
+Hi,I am Zihong, a PhD candidate in Information & Decision Sciences at Carlson School of Management, University of Minnesota. <br><br>
+
 My passion lies on empowering people in real business world by leveraging information technologies and data sciences.<br>
 
 ## Interests
@@ -23,8 +23,8 @@ My research interests broadly lie in the following two streams:
 * Predictive analytics (Machine learning)
 
 ## News
-* **Sep 2022**
-    <br> On the job market!
+* **Mar 2023**
+    <br> Will join Rawls College of Business, Texas Tech University as an assistant professor (tenure track) in Fall 2023! 
 * **July 2021**
     <br> Passed the oral preliminary exam
 * **Sep 2020**
