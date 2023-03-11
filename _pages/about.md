@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi,I am Zihong, a PhD candidate in Information & Decision Sciences at Carlson School of Management, University of Minnesota. <br><br>
+Hi,I am Zihong, a PhD candidate in Information & Decision Sciences at Carlson School of Management, University of Minnesota. <br>
 
 My passion lies on empowering people in real business world by leveraging information technologies and data sciences.<br>
 
