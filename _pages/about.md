@@ -24,7 +24,7 @@ My research interests broadly lie in the following two streams:
 
 ## News
 * **Mar 2023**
-    <br> Will join Rawls College of Business, Texas Tech University as an assistant professor (tenure track) in Fall 2023! 
+    <br> Will join Rawls College of Business at Texas Tech University as an assistant professor (tenure track) in Fall 2023! 
 * **July 2021**
     <br> Passed the oral preliminary exam
 * **Sep 2020**
