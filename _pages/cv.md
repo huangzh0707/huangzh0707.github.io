@@ -75,8 +75,9 @@ Teaching Experience
   * MABA 6441: Causal Inference via Econometrics and Experimentation (Spring 2021)
   * MSBA 6430: Advanced Issues in Business Analytics (Spring 2019)
   * MSBA 6410: Exploratory Data Analytics and Visualization (Fall 2019)
+  * IDSC 6041: Information Technology Management (Spring 2023)
   * IDSC 6050: Information Technologies and Solutions (Fall 2018)
-  * IDSC 4444: Descriptive and Predictive Analytics (Fall 2018, 2022; Spring 2020, 2021, 2022)
+  * IDSC 4444: Descriptive and Predictive Analytics (Fall 2018, 2022; Spring 2020, 2021, 2022, 2023)
   * IDSC 4210: Interactive Data Visualization for Business Analytics (Spring 2020)
 
 Industry Experience
