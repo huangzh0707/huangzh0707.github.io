@@ -47,10 +47,7 @@ Papers Under Review
 ======
 * **Zihong Huang**, De Liu. Economics of Social Media Fake Accounts. <em>Major revision at **Management
 Science**</em>. (<em>Job market paper</em>), [PDF](http://huangzh0707.github.io/files/Paper1_jobmarketpaper.pdf) 
-[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4206104) 
-* Jason Chan, **Zihong Huang**, De Liu, and Zhigang Cai. Better to Give Than to Receive: Impacts
-of Donation-Based Contribution Schemes on Crowdfunding Outcomes. <em>Accepted at
-**Information Systems Research**</em>, [PDF](http://huangzh0707.github.io/files/Paper2_zhongchou.pdf)
+[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4206104)
 
 Working Papers & Work-in-Progress Projects
 ======
@@ -84,17 +81,18 @@ Teaching Experience
 
 Industry Experience
 ======
-* **FinTech**, 2018 
-  * FinTech researcher at China's central bank
 
-* **Crowdfunding**, 2015-2017
-  * Product manager at Zhongchou.com
+* **FinTech Industry**, 2015-2018
+  * Product manager and FinTech Researcher
 
 Professional Service
 ======
+* Reviewer, Management Science (MS)
 * Reviewer, Information Systems Research (ISR)
-* Reviewer, International Conference on Information Systems (ICIS), 2019,2021,2022
+* Reviewer, Production and Operations Management (POM)
+* Reviewer, International Conference on Information Systems (ICIS), 2019,2021,2022,2023
 * Reviewer, Hawaii International Conference on System Sciences (HICSS), 2023
+
 
 Technical Skills
 ======

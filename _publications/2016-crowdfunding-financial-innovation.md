@@ -14,7 +14,6 @@ paperurl: 'http://huangzh0707.github.io/files/pure and hybrid crowds in crowdfun
 citation: 'Chen, Liang, <strong>Zihong Huang</strong>, and De Liu. "Pure and hybrid crowds in crowdfunding markets." <i>Financial Innovation</i> 2.1 (2016): 19.'
 ---
 
-[Download paper here](http://huangzh0707.github.io/files/pure and hybrid crowds in crowdfunding markets.pdf)<br>
 
 **Background**: Crowdfunding has risen rapidly as a way of raising funds to support projects such as art projects, charity projects, and new ventures. It is very important to understand how crowds in the crowdfunding market are organized to carry out various activities. This study documents and compares two crowd designs for crowdfunding, namely pure crowds, where all crowd members participate as equals, and hybrid crowds, where crowd members are led by an expert investor. The hybrid design is rarely studied in the crowdfunding literature despite its large presence in equity crowdfunding.<br><br>
 **Methods**: We examine industry practices from various countries in terms of crowd designs, review relevant literature on this topic, and develop a conceptual framework for choosing between pure and hybrid crowds.<br><br>
