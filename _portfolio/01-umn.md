@@ -1,6 +1,6 @@
 ---
 title: "University of Minnesota, Twin Cities"
-excerpt: "**Ph.D. in Business Administration**, Ongoing <br>**M.S. in Computer Science**, July 2015 <br> <br/><img src='/images/umn.jpg'>"
+excerpt: "**Ph.D. in Business Administration**, July 2023 <br>**M.S. in Computer Science**, July 2015 <br> <br/><img src='/images/umn.jpg'>"
 collection: portfolio
 ---
 
