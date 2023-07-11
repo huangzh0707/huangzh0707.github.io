@@ -9,12 +9,12 @@ redirect_from:
                    
 {% include base_path %}
 
-Update in May 2023 [(PDF)](http://huangzh0707.github.io/files/Zihong_Huang_May_2023.pdf)
+Update in July 2023 [(PDF)](http://huangzh0707.github.io/files/Zihong_Huang_July_2023.pdf)
 
 Education
 ======
 * **Ph.D.** in Information & Decision Sciences, Carlson School of Management, University of Minnesota, MN, U.S.
-  * Ongoing: expected in 2023
+  * Degree conferred: July 2023
 * **M.S.** in Computer Science, University of Minnesota, MN, U.S.
   * Degree conferred: July 2015
 * **B.S.** in Economics, Peking University, Beijing, China

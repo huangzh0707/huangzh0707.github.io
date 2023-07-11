@@ -23,6 +23,8 @@ My research interests broadly lie in the following two streams:
 * Predictive analytics (Machine learning)
 
 ## News
+* **July 2023**
+    <br> Defend my Ph.D. Dissertation!
 * **Mar 2023**
     <br> Will join Rawls College of Business at Texas Tech University as an assistant professor (tenure track) in Fall 2023! 
 * **July 2021**
