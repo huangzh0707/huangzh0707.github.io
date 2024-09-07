@@ -9,7 +9,7 @@ redirect_from:
                    
 {% include base_path %}
 
-Update in July 2023 [(PDF)](http://huangzh0707.github.io/files/Zihong_Huang_July_2023.pdf)
+Update in July 2023 [(PDF)](https://huangzh0707.github.io/files/Zihong_Huang_July_2023.pdf)
 
 Education
 ======
@@ -46,7 +46,7 @@ Teaching Interests
 Papers Under Review
 ======
 * **Zihong Huang**, De Liu. Economics of Social Media Fake Accounts. <em>Major revision at **Management
-Science**</em>. [PDF](http://huangzh0707.github.io/files/Paper1_jobmarketpaper.pdf) 
+Science**</em>. [PDF](https://huangzh0707.github.io/files/Paper1_jobmarketpaper.pdf) 
 [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4206104)
 
 Working Papers & Work-in-Progress Projects
