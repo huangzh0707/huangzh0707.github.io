@@ -4,58 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b249e945-76f4-426f-9f2f-d3eebc91b38e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/authors.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/authors.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/comments/layout-comments/comment-1470944006665.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/comments/layout-comments/comment-1470944006665.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/comments/welcome-to-jekyll/comment-1470942493518.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/comments/welcome-to-jekyll/comment-1470942493518.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/analytics-providers/google.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/analytics-providers/google.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/archive-single-cv.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/archive-single-cv.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/archive-single-talk-cv.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/archive-single-talk-cv.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/archive-single-talk.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/archive-single-talk.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/archive-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/archive-single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/author-profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/author-profile.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/breadcrumbs.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/breadcrumbs.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/browser-upgrade.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/browser-upgrade.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/category-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/category-list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/comments-providers/discourse.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/comments-providers/discourse.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/comments-providers/disqus.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/comments-providers/disqus.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/seo.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/seo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/tag-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/tag-list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/compress.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/compress.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/single.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/splash.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/splash.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/talk.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/talk.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/archive-layout-with-content.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/archive-layout-with-content.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/cv.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/cv.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/terms.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/terms.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2022-09-01-project-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2022-09-01-project-1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/2016-crowdfunding-financial-innovation.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2016-crowdfunding-financial-innovation.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/2016-crowdsourcing-cscw.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2016-crowdsourcing-cscw.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_mixins.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/_syntax.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_syntax.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/_utilities.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_utilities.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/vendor/font-awesome/_font-awesome.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/font-awesome/_font-awesome.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/vendor/font-awesome/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vendor/font-awesome/_mixins.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/academicons.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/academicons.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/academicons.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/academicons.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/plugins/jquery.fitvids.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/plugins/jquery.fitvids.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/plugins/jquery.greedy-navigation.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/plugins/jquery.greedy-navigation.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/plugins/jquery.magnific-popup.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/plugins/jquery.magnific-popup.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/plugins/stickyfill.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/plugins/stickyfill.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/safari-pinned-tab.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/safari-pinned-tab.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/markdown_generator/publications.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/markdown_generator/publications.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/markdown_generator/talks.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/markdown_generator/talks.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/markdown_generator/talks.py" beforeDir="false" afterPath="$PROJECT_DIR$/markdown_generator/talks.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/markdown_generator/talks.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/markdown_generator/talks.tsv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/talkmap/leaflet_dist/leaflet.markercluster-src.js" beforeDir="false" afterPath="$PROJECT_DIR$/talkmap/leaflet_dist/leaflet.markercluster-src.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/talkmap/map.html" beforeDir="false" afterPath="$PROJECT_DIR$/talkmap/map.html" afterDir="false" />
-    </list>
+    <list default="true" id="b249e945-76f4-426f-9f2f-d3eebc91b38e" name="Default" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -290,7 +239,7 @@
       <workItem from="1505456038246" duration="1211000" />
       <workItem from="1505457416764" duration="135000" />
       <workItem from="1689814588544" duration="153000" />
-      <workItem from="1725679880310" duration="6090000" />
+      <workItem from="1725679880310" duration="6415000" />
     </task>
     <servers />
   </component>
