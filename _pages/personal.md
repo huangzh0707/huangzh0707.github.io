@@ -12,7 +12,7 @@ I was born in Yixing, a small town in Jiangsu Province, China.
 
 ## Contact
 
-* E-mail:  huan0707 (at) umn (dot) edu
+* E-mail:  zihong(dot)huang(at)ttu(dot)edu
 * Phone:   +1 612-666-3633 
 * WeChat:  718296422
 
