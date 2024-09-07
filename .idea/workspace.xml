@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b249e945-76f4-426f-9f2f-d3eebc91b38e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/markdown_generator/publications.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/markdown_generator/publications.tsv" afterDir="false" />
-    </list>
+    <list default="true" id="b249e945-76f4-426f-9f2f-d3eebc91b38e" name="Default" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -244,7 +239,7 @@
       <workItem from="1505456038246" duration="1211000" />
       <workItem from="1505457416764" duration="135000" />
       <workItem from="1689814588544" duration="153000" />
-      <workItem from="1725679880310" duration="4864000" />
+      <workItem from="1725679880310" duration="5761000" />
     </task>
     <servers />
   </component>
