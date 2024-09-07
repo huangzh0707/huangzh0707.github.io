@@ -9,7 +9,7 @@ redirect_from:
                    
 {% include base_path %}
 
-Update in July 2023 [(PDF)](https://huangzh0707.github.io/files/Zihong_Huang_July_2023.pdf)
+Update in Sep 2024 [(PDF)](https://huangzh0707.github.io/files/Zihong_Huang_Sep_2024.pdf)
 
 Education
 ======
@@ -43,29 +43,36 @@ Teaching Interests
 * **Seminar courses**: Doctoral level
   * Economics of IS: conceptual topics and research methods 
 
-Papers Under Review
-======
-* **Zihong Huang**, De Liu. Economics of Social Media Fake Accounts. <em>Major revision at **Management
-Science**</em>. [PDF](https://huangzh0707.github.io/files/Paper1_jobmarketpaper.pdf) 
-[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4206104)
-
-Working Papers & Work-in-Progress Projects
-======
-* **Zihong Huang**, Xuan Bi, and De Liu. AI-empowered Venture Capital (VC): The Impact of AI
-Adoption on VC Firms’ Success.(<em>Working paper</em>)
-* **Zihong Huang**, De Liu, and Alok Gupta. Budget Induced Strategic Bidding in Multiunit Online
-Auctions. (<em>Working paper</em>)
-* **Zihong Huang**, De Liu. Economics of Politically Motivated Fake Accounts. (<em>Model building</em>)
-
-  
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+[//]: # (Papers Under Review)
+
+[//]: # (======)
+
+[//]: # (* **Zihong Huang**, De Liu. Economics of Social Media Fake Accounts. <em>Major revision at **Management)
+
+[//]: # (Science**</em>. [PDF]&#40;https://huangzh0707.github.io/files/Paper1_jobmarketpaper.pdf&#41; )
+
+[//]: # ([SSRN]&#40;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4206104&#41;)
+
+Working Papers
+======
+* **Zihong Huang**, Yi Gao, De Liu. Social Media Manipulation and Verification Badge.
+* **Zihong Huang**, Xuan Bi, and De Liu. AI-empowered Venture Capital (VC): The Impact of AI
+Adoption on VC Firms’ Success.
+* **Zihong Huang**, De Liu, and Alok Gupta. Budget Induced Strategic Bidding in Multiunit Online
+Auctions. 
+
 Teaching Experience
 ======
+* **Instructor** at Texas Tech University
+  * ISQS 3345: Analytics and Development with Python
+    * Fall 2024 : ongoing
+    * Fall 2023 : 4.3/5
 * **Instructor** at University of Minnesota
   * IDSC 4444: Descriptive and Predictive Analytics
     * Fall 2021 (in-person): 5.31/6
@@ -90,9 +97,10 @@ Professional Service
 ======
 * Reviewer, Management Science (MS)
 * Reviewer, Information Systems Research (ISR)
+* Reviewer, MIS Quarterly (MISQ)
 * Reviewer, Production and Operations Management (POM)
-* Reviewer, International Conference on Information Systems (ICIS), 2019,2021,2022,2023
-* Reviewer, Hawaii International Conference on System Sciences (HICSS), 2023
+* Reviewer, International Conference on Information Systems (ICIS), 2019,2021,2022,2023,2024
+* Reviewer, Hawaii International Conference on System Sciences (HICSS), 2023,2024
 
 
 Technical Skills
