@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor in the area of [Information Systems and Quantitative Sciences (ISQS) at Rawls College of Business, Texas Tech University](https://www.depts.ttu.edu/rawlsbusiness/about/isqs/). My passion lies on empowering people in real business world by leveraging information technologies and data sciences. <br>
+I am a tenure track assistant professor in the area of [Information Systems and Quantitative Sciences (ISQS) at Rawls College of Business, Texas Tech University](https://www.depts.ttu.edu/rawlsbusiness/about/isqs/). My passion lies on empowering people in real business world by leveraging information technologies and data sciences. <br>
 <br>
 Before joining Texas Tech University, I obtained my Ph.D. degree from the department of [Information and Decision Sciences at Carlson School of Management, University of Minnesota.](https://carlsonschool.umn.edu/departments/information-decision-sciences-department)
 <br>
@@ -24,6 +24,8 @@ My research interests broadly lie in the following two streams:
 * Predictive analytics (Machine learning)
 
 ## News
+* **Aug 2023**
+    <br> Join Rawls College of Business, Texas Tech University
 * **July 2023**
     <br> Defend my Ph.D. Dissertation!
 * **Mar 2023**
