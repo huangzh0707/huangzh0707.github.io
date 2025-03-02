@@ -9,7 +9,7 @@ redirect_from:
                    
 {% include base_path %}
 
-Update in Sep 2024 [(PDF)](https://huangzh0707.github.io/files/Zihong_Huang_Sep_2024.pdf)
+Update in Mar 2025 [(PDF)](https://huangzh0707.github.io/files/Zihong_Huang_Mar_2025.pdf)
 
 Education
 ======
