@@ -71,7 +71,7 @@ Teaching Experience
 ======
 * **Instructor** at Texas Tech University
   * ISQS 3345: Analytics and Development with Python
-    * Fall 2024 : ongoing
+    * Fall 2024 : 4.5/5
     * Fall 2023 : 4.3/5
 * **Instructor** at University of Minnesota
   * IDSC 4444: Descriptive and Predictive Analytics
