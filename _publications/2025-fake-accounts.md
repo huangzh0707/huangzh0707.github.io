@@ -6,10 +6,10 @@ excerpt: "Amid the rise of the influencer economy, fake social media accounts ha
 date: 2025-02-19
 venue: 'Management Science'
 paperurl: 'https://pubsonline.informs.org/doi/10.1287/mnsc.2022.02616'
-citation: 'Zihong Huang , De Liu (2025) Economics of Social Media Fake Accounts. Management Science'
+citation: '<strong>Zihong Huang</strong> , De Liu (2025) Economics of Social Media Fake Accounts. Management Science'
 ---
 Download paper: [PDF](https://pubsonline.informs.org/doi/10.1287/mnsc.2022.02616)
 
 **Keywords**: Influencer Economy, Fake Accounts, Social Media, Signaling Game
 
-Recommended citation: Zihong Huang , De Liu (2025) Economics of Social Media Fake Accounts. Management Science
+Recommended citation: <strong>Zihong Huang</strong>, De Liu (2025) Economics of Social Media Fake Accounts. Management Science
