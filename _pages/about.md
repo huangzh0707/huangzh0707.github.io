@@ -8,20 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a tenure track assistant professor in the area of [Information Systems and Quantitative Sciences (ISQS) at Rawls College of Business, Texas Tech University](https://www.depts.ttu.edu/rawlsbusiness/about/isqs/). My passion lies on empowering people in real business world by leveraging information technologies and data sciences. <br>
-<br>
-Before joining Texas Tech University, I obtained my Ph.D. degree from the department of [Information and Decision Sciences at Carlson School of Management, University of Minnesota.](https://carlsonschool.umn.edu/departments/information-decision-sciences-department)
+I am a tenure track assistant professor in the area of [Information Systems and Quantitative Sciences (ISQS) at Rawls College of Business, Texas Tech University](https://www.depts.ttu.edu/rawlsbusiness/about/isqs/). Before joining Texas Tech University, I obtained my Ph.D. degree from the department of [Information and Decision Sciences at Carlson School of Management, University of Minnesota.](https://carlsonschool.umn.edu/departments/information-decision-sciences-department)
 <br>
 
 ## Interests
 My research interests broadly lie in the following two streams:
-* Economics of social media manipulation
-* Role of IT and AI on FinTech Markets 
+* Economics of social media
+* Financial Innovations
 
 ## Methodology Toolbox
 * Analytical modeling (Game theory)
 * Causality inference (Econometrics)
-* Predictive analytics (Machine learning)
 
 ## News
 * **Aug 2023**
