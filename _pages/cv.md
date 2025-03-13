@@ -26,19 +26,16 @@ Education
 
 Research Interests
 ======
-* **Economics of Social Media Manipulation** 
+* **Economics of Social Media** 
   * Methods: Analytical modeling (game theory)
 
-* **Role of IT and AI on FinTech Markets**
+* **Financial Innovations**
   * Methods: Econometrics
   
 Teaching Interests
 ======
-* **Business Analytics**: undergraduate/MSBA level
-  * Descriptive analytics, predictive analytics, and causal analytics
-
-* **MIS courses**: MBA level
-  * Strategic and managerial issues in IT/analytics topics
+* **Business Analytics**: undergraduate/master level
+  * Descriptive analytics, and causal analytics
 
 * **Seminar courses**: Doctoral level
   * Economics of IS: conceptual topics and research methods 
@@ -62,8 +59,7 @@ Publications
 Working Papers
 ======
 * **Zihong Huang**, Yi Gao, De Liu. Social Media Manipulation and Verification Badge.
-* **Zihong Huang**, Xuan Bi, and De Liu. AI-empowered Venture Capital (VC): The Impact of AI
-Adoption on VC Firms’ Success.
+* **Zihong Huang**, Xuan Bi, and De Liu. Data-Driven Venture Capital (DDVC): The Impact of data-driven investment strategy on VC Firms’ Success.
 * **Zihong Huang**, De Liu, and Alok Gupta. Budget Induced Strategic Bidding in Multiunit Online
 Auctions. 
 
@@ -90,8 +86,7 @@ Teaching Experience
 Industry Experience
 ======
 
-* **FinTech Industry**, 2015-2018
-  * Product manager and FinTech Researcher
+* Product manager and Researcher in FinTech Industry, 2015-2018
 
 Professional Service
 ======
